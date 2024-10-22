@@ -55,14 +55,6 @@ def replace_links(links):
 
     return updated_links
 
-# Function to encode links to base64
-def encode_links_to_base64(links):
-    encoded_links = []
-    for link in links:
-        encoded_link = base64.b64encode(link.encode('utf-8')).decode('utf-8')
-        encoded_links.append(encoded_link)
-    return encoded_links
-
 # Function to save V2Ray links to a file, avoiding duplicates
 def save_v2ray_links(links, filename):
     if links:
@@ -76,6 +68,14 @@ def save_v2ray_links(links, filename):
         with open(filename, 'a', encoding='utf-8') as file:
             for link in new_links:
                 file.write(link + '\n')
+
+# Function to encode the entire file content to base64
+def encode_file_to_base64(input_filename, output_filename):
+    with open(input_filename, 'r', encoding='utf-8') as file:
+        content = file.read()
+    encoded_content = base64.b64encode(content.encode('utf-8')).decode('utf-8')
+    with open(output_filename, 'w', encoding='utf-8') as file:
+        file.write(encoded_content)
 
 def main():
     # Check if the filename is passed as an argument
@@ -106,16 +106,14 @@ def main():
     # Replace links before saving
     updated_links = replace_links(all_links)
 
-    # Separate base64 and non-base64 links
-    base64_links = encode_links_to_base64(updated_links)
-    non_base64_links = [link for link in updated_links if link not in base64_links]
+    # Save links to the determined file
+    save_v2ray_links(updated_links, filename)
 
     # Determine base64 filename based on the current file
     base64_filename = 'base64' if 'v2tel_links1.txt' in filename else 'base64_1'
 
-    # Save links to respective files
-    save_v2ray_links(base64_links, base64_filename)
-    save_v2ray_links(non_base64_links, filename)
+    # Encode the entire file content to base64 and save it
+    encode_file_to_base64(filename, base64_filename)
 
 if __name__ == "__main__":
     main()
