@@ -1,3 +1,5 @@
+
+
 import requests
 from bs4 import BeautifulSoup
 import os
@@ -108,9 +110,12 @@ def main():
     base64_links = encode_links_to_base64(updated_links)
     non_base64_links = [link for link in updated_links if link not in base64_links]
 
+    # Determine base64 filename based on the current file
+    base64_filename = 'base64' if 'v2tel_links1.txt' in filename else 'base64_1'
+
     # Save links to respective files
-    save_v2ray_links(base64_links, 'base64_' + filename)
-    save_v2ray_links(non_base64_links, 'links_' + filename)
+    save_v2ray_links(base64_links, base64_filename)
+    save_v2ray_links(non_base64_links, filename)
 
 if __name__ == "__main__":
     main()
