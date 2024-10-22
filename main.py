@@ -85,6 +85,7 @@ def main():
 
     filename = sys.argv[1]
 
+
     telegram_urls = [
         "https://t.me/s/v2ray_configs_pool",
         "https://t.me/s/ConfigsHUB2",
@@ -97,7 +98,6 @@ def main():
         "https://t.me/s/v2ray_outlineir"
 
     ]
-
     all_links = []
     for url in telegram_urls:
         links = extract_v2ray_links(url)
@@ -112,8 +112,9 @@ def main():
     # Determine base64 filename based on the current file
     base64_filename = 'base64' if 'v2tel_links1.txt' in filename else 'base64_1'
 
-    # Encode the entire file content to base64 and save it
+    # Encode the entire file content to base64 and save it, overwriting the previous content
     encode_file_to_base64(filename, base64_filename)
 
 if __name__ == "__main__":
     main()
+
