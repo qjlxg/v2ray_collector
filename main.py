@@ -2,7 +2,8 @@ import requests
 from bs4 import BeautifulSoup
 import os
 import time
-import sys  # To handle the file argument
+import sys
+import base64
 
 # Function to extract V2Ray links
 def extract_v2ray_links(url, timeout=15, retries=5, retry_delay=8):
@@ -52,6 +53,14 @@ def replace_links(links):
 
     return updated_links
 
+# Function to encode links to base64
+def encode_links_to_base64(links):
+    encoded_links = []
+    for link in links:
+        encoded_link = base64.b64encode(link.encode('utf-8')).decode('utf-8')
+        encoded_links.append(encoded_link)
+    return encoded_links
+
 # Function to save V2Ray links to a file, avoiding duplicates
 def save_v2ray_links(links, filename):
     if links:
@@ -95,7 +104,13 @@ def main():
     # Replace links before saving
     updated_links = replace_links(all_links)
 
-    save_v2ray_links(updated_links, filename)
+    # Separate base64 and non-base64 links
+    base64_links = encode_links_to_base64(updated_links)
+    non_base64_links = [link for link in updated_links if link not in base64_links]
+
+    # Save links to respective files
+    save_v2ray_links(base64_links, 'base64_' + filename)
+    save_v2ray_links(non_base64_links, 'links_' + filename)
 
 if __name__ == "__main__":
     main()
