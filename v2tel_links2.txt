@@ -696,3 +696,4 @@ trojan://telegram-id-privatevpns@34.250.106.56:22222?security=tls&alpn=http/1.1&
 trojan://telegram-id-privatevpns@18.196.76.204:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-directvpn@52.208.159.171:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@63.35.70.71:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://98f0c223-cb75-4faa-859e-47110b1f052b@zula.ir:2096?path=%2FTelegram%23V2ray_Alpha%2F%3D%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=internet4everieone7.pages.dev&fp=randomized&type=ws&sni=iNTeRnET4EVERIeONe7.PaGes.DeV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
