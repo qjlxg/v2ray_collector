@@ -1238,3 +1238,12 @@ ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@69.50.92.55:9102#👉🆔 @v2ray_config
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@69.50.95.180:5498#[🇺🇸]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@69.50.95.180:5000#[🇺🇸]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@69.50.95.203:2375#[🇺🇸]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.121.43.51:2376#[🇺🇸]t.me/ConfigsHub
+vless://f85872e3-16eb-5625-a45d-de35abee97f5@162.159.129.67:8443?security=tls&sni=contactusfromwebvahid.SAssaNIdEMpIre.Com&type=ws&host=contactusfromwebvahid.SAssaNIdEMpIre.Com&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h3,h2#[🇨🇦]t.me/ConfigsHub
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206OFNZUVo5NWVOUVBwTkkwdkdkU0MwNy9Lbmlzbnprbk5JS2duYU5BMEZlTT06QmRmV1ZCZE5WSlpmYkYwT2NYL2F4NTlMYTczSzV1L2NEYXkyUGIyR3RRST0%3D@213.171.10.225:47881#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
+vless://f85872e3-16eb-5625-a45d-de35abee97f5@104.16.201.94:2087?security=tls&sni=contactusfromwebvahid.saSSANiDEMPiRe.Com&type=ws&host=contactusfromwebvahid.saSSANiDEMPiRe.Com&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h3,h2#[🇺🇸]t.me/ConfigsHub
+vless://f85872e3-16eb-5625-a45d-de35abee97f5@104.16.201.94:2087?security=tls&sni=contactusfromwebvahid.saSSANiDEMPiRe.Com&type=ws&host=contactusfromwebvahid.saSSANiDEMPiRe.Com&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h3#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206OFNZUVo5NWVOUVBwTkkwdkdkU0MwNy9Lbmlzbnprbk5JS2duYU5BMEZlTT06QmRmV1ZCZE5WSlpmYkYwT2NYL2F4NTlMYTczSzV1L2NEYXkyUGIyR3RRST0%3D@213.171.10.225:47881#[🇷🇺]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@169.197.141.84:9090#[🇺🇸]t.me/ConfigsHub
+vless://f85872e3-16eb-5625-a45d-de35abee97f5@104.18.185.80:2053?security=tls&sni=contactusfromwebvahid.sAsSANIdemPIrE.Com&type=ws&host=contactusfromwebvahid.sAsSANIdemPIrE.Com&path=vless-ws%2F%3Fed%3D2048&fp=chrome&alpn=http/1.1#[🇺🇸]t.me/ConfigsHub
