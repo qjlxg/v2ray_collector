@@ -37,12 +37,7 @@ def extract_v2ray_links(url, timeout=15, retries=5, retry_delay=8):
 # Function to replace specific text in links
 def replace_links(links):
     replacements = {
-        "t.me/ConfigsHub": "t.me/V2razy",
-        "@v2ray_configs_pool": "@V2razy",
-        "t.me/PrivateVPNs":"t.me/V2razy",
-        "@VlessConfig":"@V2razy",
-        "@DirectVPN":"@V2razy",
-        "DailyV2ry" :"@v2razy"
+
 
     }
 
