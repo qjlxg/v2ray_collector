@@ -2153,3 +2153,8 @@ trojan://telegram-id-privatevpns@13.42.123.199:22222?security=tls&sni=trojan.bur
 vless://eaf32153-ae88-44b9-a00d-2dba1f5f5db0@151.101.66.133:443?path=ws%2F%3Fed%3D2048&security=tls&encryption=none&host=jhtyvtvb.com&type=ws&sni=Live.skornorth.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 trojan://telegram-id-directvpn@52.57.165.203:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
 trojan://telegram-id-directvpn@15.156.183.78:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://c95c7fea-3fee-45fb-b47d-015ec1dda4e0@104.18.1.125:8080?path=%2F%3Fed%3D8080&security=none&encryption=none&host=vwvwvwvwvwvwvwvwvwvwvwvvwvwvwvwvwv.vwvwv-vvwwvwvwv.mixtool.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://telegram-id-directvpn@15.156.171.26:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http%2F1.1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://d3a12e79-ef42-4268-b367-42eeb3494e60@visa.com:443?encryption=none&security=tls&sni=Hagh.PaGes.DEv&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=Hagh.PaGes.DEv&path=%2FPathTELEGRAM-@vpnAndroid2%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://c95c7fea-3fee-45fb-b47d-015ec1dda4e0@mtn.mtabag.ir:8080?path=%2F%3Fed%3D8080&security=none&encryption=none&host=vwvwvwvwvwvwvwvwvwvwvwvvwvwvwvwvwv.vwvwv-vvwwvwvwv.mixtool.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.45.4:443?encryption=none&security=tls&sni=94391e80.uvPN-OrG.PAGes.Dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=94391E80.uVpn-Org.paGes.Dev&path=%2FTELEGRAM-GH_V2RAYNG%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
