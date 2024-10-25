@@ -2510,3 +2510,4 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.135.209.247:22222?path=/telegram
 trojan://telegram-id-directvpn@34.247.45.182:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@18.169.31.170:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S107)🇬🇧t.me/PrivateVPNs
 vless://d810c650-c337-499c-831a-9dfe4c041469@151.101.2.216:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Ojolat2boqol.net&type=ws#[🏁]t.me/ConfigsHub
+vless://b27f2e37-6859-41e5-886e-ae3c12243ca1@tgju.org:2082?type=httpupgrade&path=%2F%3Fed%3D2082%2Ctelegram%2Cv2rayng_vpnrog%2Ctelegram%2Cv2rayng_vpnrog%2Ctelegram%2Cv2rayng_vpnrog%2C%3Fed%3D2082&host=1S3-0MH-HJ1JAR06--BPKV6G4V--sWZW5eMD_QKJ__ZWB4FRTV7_KA7A.0912.ORG.&security=none#[🏁]t.me/ConfigsHub
