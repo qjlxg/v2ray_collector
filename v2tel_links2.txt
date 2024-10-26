@@ -3045,3 +3045,10 @@ trojan://telegram-id-directvpn@3.138.59.242:22222?security=tls&sni=trojan.burger
 vmess://eyJhZGQiOiIxNzIuOTkuMTkwLjIwOSIsImFpZCI6MCwiaG9zdCI6IjE3Mi45OS4xOTAuMjA5IiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL2xpbmt2d3MiLCJwb3J0Ijo0NDMsInBzIjoiW/Cfj4FddC5tZS9Db25maWdzSHViIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ==
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@195.181.160.6:990#👉🆔 @v2ray_configs_pool📡🇨🇿Czechia
 ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@80.92.204.106:9011#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206ZVlJQW9HcUlpUnhvS0Y1enNucG1hZGUzVW5VRUpjaE5naE5ZbGlEVmxZaz0=@91.107.160.111:36298#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+trojan://telegram-id-privatevpns@35.159.146.63:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.188:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig.drroyazare.ir:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZ2dAWDBtNTE1@176.124.199.255:30252#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.181:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.167.234.98:990#👉🆔 @v2ray_configs_pool📡🇦🇱Albania
