@@ -4295,3 +4295,16 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.71.78.155:22222?path=/telegram-c
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.71.78.155:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🏁]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.71.78.155:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇺🇸
 trojan://telegram-id-privatevpns@13.60.150.110:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S111)🇸🇪t.me/PrivateVPNs
+trojan://tg-dns68@162.159.152.47:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://95466c9f-e759-400b-9e3c-38f68da575fa@WwW.SpEEdTest.NeT:2087?path=%40a_waay_out%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=DArk.JUdGEMent-cRow.COm&fp=firefox&type=httpupgrade&sni=dArK.jUdGEmENT-cROw.CoM#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@18.133.36.147:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+ss://YWVzLTI1Ni1nY206WXpnME5EaGxNemhqWm1VNE1XVXhZMkl4TlRaaU1USmlaVEV4TWpnMQ%3D%3D@thr03.npvnot.com:11095#[🏁]t.me/ConfigsHub
+trojan://cbaacba-acba-baac-cbad-cbacabcbcaab@127.0.0.1:1080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+trojan://ac590e89-ba43-49a1-a8b2-38ec70dc7907@34.220.189.75:20230?sni=421421.xyz#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://56d21127-bc8b-44cc-9592-240656f22dd9@104.16.183.101:443?security=tls&sni=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&type=ws&host=xxx.66500-280b-471c-b2b8-d68b7f9960010.workers.dev&path=%2F%3Fed%3D2048&fp=chrome&alpn=h3%2Ch2#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://bccaaab-baca-caba-cbad-bcacaabbcbac@127.0.0.1:8080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+trojan://ac590e89-ba43-49a1-a8b2-38ec70dc7907@34.220.189.75:20230?sni=421421.xyz#[🏁]t.me/ConfigsHub
+vless://95466c9f-e759-400b-9e3c-38f68da575fa@WwW.SpEEdTest.NeT:2087?path=%40a_waay_out%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2,http/1.1&host=DArk.JUdGEMent-cRow.COm&fp=firefox&type=httpupgrade&sni=dArK.jUdGEmENT-cROw.CoM#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://bcabaca-acab-caab-bdac-abbacabcbacc@127.0.0.1:1080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+vless://d8240505-8848-4ed1-c17d-9dc855d9b2c7@104.22.70.106:443?security=tls&sni=ico.org.uk&path=%2Fd8240505-8848-4ed1-c17d-9dc855d9b2c7&alpn=h3&allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206WXpnME5EaGxNemhqWm1VNE1XVXhZMkl4TlRaaU1USmlaVEV4TWpnMQ%3D%3D@thr03.npvnot.com:11095#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
