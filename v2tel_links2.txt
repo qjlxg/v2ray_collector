@@ -4533,3 +4533,11 @@ trojan://telegram-id-privatevpns@52.208.136.122:22222?security=tls&alpn=http/1.1
 vless://cefffd1d-cc58-4560-b4d1-44f1af528f30@151.101.3.10:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=uni.fi&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.49.69.8:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇮
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.49.69.8:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🏁]t.me/ConfigsHub
+vless://2b2dac83-7427-4f64-bd72-a6aa6f018359@www.speedtest.net:80?path=%2F%3Fed%3D2056&security=none&encryption=none&host=SsD.Www.speedtest.net.ftp.debian.org.xn--ihqvlaa157dbvciyg50okggl0r2f5bcj1a.clubliverPool.Ir.&type=httpupgrade#[🏁]t.me/ConfigsHub
+vless://2b2dac83-7427-4f64-bd72-a6aa6f018359@www.speedtest.net:80?path=%2F%3Fed%3D2056&security=none&encryption=none&host=SsD.Www.speedtest.net.ftp.debian.org.xn--ihqvlaa157dbvciyg50okggl0r2f5bcj1a.clubliverPool.Ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://65db22c1-533b-4c7b-ce09-a3ca27e91865@212.33.201.169:55453?security=none&encryption=none&headerType=none&type=tcp#[🏁]t.me/ConfigsHub
+trojan://telegram-id-directvpn@35.156.222.131:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://65db22c1-533b-4c7b-ce09-a3ca27e91865@212.33.201.169:55453?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://f05d094c-4826-4eff-c5d7-6de2ebdfdbf8@212.33.201.169:44230?path=%2F&security=none&encryption=none&type=ws#[🏁]t.me/ConfigsHub
+vless://Parsashonam-89@146.75.74.228:443?path=%2F%40Parsashonam%2Fws%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=Parsashonam0.com&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://f05d094c-4826-4eff-c5d7-6de2ebdfdbf8@212.33.201.169:44230?path=%2F&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
