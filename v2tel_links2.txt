@@ -4501,3 +4501,9 @@ vless://TELEGRAM-NUFiLTER@151.101.2.216:80?path=/telegram-NUFiLTER,telegram-NUFi
 trojan://telegram-id-directvpn@51.21.138.5:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
 trojan://f0d584bc-342f-4443-ba24-79e4d0e504b1@104.19.209.229:8880?security=none&type=ws&path=/Telegram@V2ray_Alpha?ed=2560&host=late-tooth.granzinhannah.workers.dev#[🏁]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@18.170.22.245:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
+vless://TELEGRAM-NUFiLTER@151.101.2.216:80?path=/telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER,telegram-NUFiLTER?ed=2048&security=none&encryption=none&host=Dadachib4odoberim.net&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://bpb-trojan@104.18.37.111:443?path=%2FtrC8BM8bTsAF0AnLYL%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=mindroom-5cz.pages.dev&fp=chrome&type=ws&sni=mindrOOm-5cz.pAgEs.dEV#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://Parsashonam-89@146.75.74.228:443?path=%2F%40Parsashonam%2Fws%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=Parsashonam0.com&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#[🏁]t.me/ConfigsHub
+vless://1ad95b6a-8dca-4773-8947-eedf49fdc4c1@funnelytics.io:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D2480&security=tls&encryption=none&alpn=h3#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.169.2.63:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🏁]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@15.188.249.208:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
