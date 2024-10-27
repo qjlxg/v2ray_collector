@@ -4221,3 +4221,9 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.179.0.241:22222?path=/telegram-c
 trojan://telegram-id-directvpn@54.228.159.6:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
 trojan://telegram-id-directvpn@54.228.159.6:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-privatevpns@15.236.126.59:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
+trojan://bpb-trojan@172.66.44.141:2083?security=tls&type=ws&sni=fB0887ca.BPB-WorkEr-pAnel-e3c.paGes.DeV&path=/trMK2zs2naPJSgJ7Pr?ed=2560&host=fb0887ca.bpb-worker-panel-e3c.pages.dev#[🏁]t.me/ConfigsHub
+vless://6e0d9dbd-cf13-4708-aa8a-69e78ba3ff6a@151.101.130.228:443?security=tls&sni=bwdraper.faculty.ucdavis.edu&type=ws&host=onlineshoppardis.com&path=%2F%40vistav2ray---%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray----%40vistav2ray%3Fed%3D2048&fp=chrome&alpn=h2%2Chttp%2F1.1&allowInsecure=1#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsV2FHUFZGam1uYWc=@205.134.180.139:443#[🏁]t.me/ConfigsHub
+trojan://telegram-id-directvpn@3.77.219.183:22222?sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
+vless://1ad95b6a-8dca-4773-8947-eedf49fdc4c1@104.17.234.128:443?path=/Telegram#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://Tel-DailyConfigs@104.18.7.21:2053?security=tls&type=ws&sni=kanale-daily-configs.blackoutconnection.ir&path=/TELEGRAM:@Daily_Configs?ed=2560&host=kanale-daily-configs.blackoutconnection.ir#[🏁]t.me/ConfigsHub
