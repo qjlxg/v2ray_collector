@@ -4680,3 +4680,7 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.109.119:22222?security=tls&s
 vless://6babb657-1524-43bb-b421-11bda27bc9de@104.24.249.106:2087?security=tls&sni=smart.titimoji-f6.fun&type=grpc#[🏁]t.me/ConfigsHub
 vless://e6aacb88-39e7-4c11-969a-111d343c3e71@104.18.1.125:8080?security=none&type=ws&host=vwvwvwvwvwvwvwvwv.it.irvwvwvwvwwwvwvwvwvwvwvwvwvwv.vvwvw.ataribaran.ir&path=%2F%3Fed%3D8080#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5U0d3UlFuWERlLzY1VUNETWV2YzFXSkY0eGcwd20rNGVSeDVtRnAwUWlRPQ@45.14.247.254:18995#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@69.50.95.103:8008#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://7f99a4f8-6f94-489f-9105-8e030e9e59b2@5.44.42.92:1619?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=wwww.refersion.com&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=3a622700e73c6642#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.10.120:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
+vless://7f99a4f8-6f94-489f-9105-8e030e9e59b2@144.126.239.248:1618?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=wwww.refersion.com&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=3a622700e73c6642#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
