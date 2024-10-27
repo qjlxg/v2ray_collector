@@ -3991,3 +3991,5 @@ vless://SVNTEAM@104.17.234.128:8080/?type=httpupgrade&path=%2F%3Fed%3D8080&host=
 vless://SVNTEAM@104.17.234.128:8080/?type=httpupgrade&path=%2F%3Fed%3D8080&host=l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.l.I.nisvn.iR.&security=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.110.1.51:8091#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.90.63.193:990#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206ZVlJQW9HcUlpUnhvS0Y1enNucG1hZGUzVW5VRUpjaE5naE5ZbGlEVmxZaz0%3D@91.107.160.111:36298#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://b20c1559-1b8b-41b0-b264-3ad5fb4c8a1d@188.245.122.218:2087?path=%2F&security=reality&encryption=none&pbk=iLXtOnumsz12n6e5gLBXbJJ9nVOSDu23ONIMIeVWGAg&fp=chrome&type=http&sni=filimo.com&sid=fa02e1bbb0f9efd5#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
