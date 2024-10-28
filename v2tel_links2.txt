@@ -4978,3 +4978,18 @@ vless://1ad95b6a-8dca-4773-8947-eedf49fdc4c1@104.17.234.128:443?path=%2FTelegram
 vless://1ad95b6a-8dca-4773-8947-eedf49fdc4c1@104.18.165.38:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com&fp=chrome&type=ws&sni=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://1ad95b6a-8dca-4773-8947-eedf49fdc4c1@104.18.165.38:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com&fp=chrome&type=ws&sni=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://04796237-f0a5-4725-9298-b86e97e45534@speedtest.net:80?path=/@Alfred_Config/@Alfred_Config/@Alfred_Config/@Alfred_Config/@Alfred_Config/@Alfred_Config/@Alfred_Config/@Alfred_Config/@Alfred_Config/@Alfred_Config/@Alfred_Config/@Alfred_Config/@Alfred_Config/@Alfred_Config/@Alfred_Config/@Alfred_Config%3Fed%3D2048&security=none&encryption=none&alpn=http/1.1&host=bas-kon-irani.ir&fp=chrome&type=ws&sni=speedtest.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTQuMjU1LjIzNy4yNDk6NDQz#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMzQuMjA5LjEwMy4yNTQ6NDQz#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://db44db25-59a2-4834-9862-b251ad810f4c@104.17.234.114:443?security=tls&sni=UNLIMITEDDEV.unlimiteddev-vpn.com&fp=chrome&type=ws&path=/@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed%3D8080&host=UNLIMITEDDEV.unlimiteddev-vpn.com&encryption=none#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4SWphUzViMXFBT1ppVW4wVlF5b01M@81.19.141.45:52873#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTIuMTAuMzMuMjExOjQ0Mw==#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjaFp0MDcyQlBDZExyR2UzNm4ybGR0@51.158.252.130:443#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVAMzUuODcuMTg1LjI0ODo0NDM=#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTcuMTgxLjQyLjE4MTo0NDM=#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
+vless://tel--ZEDMODEON@zmaoz.faculty.ucdavis.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=snappshop.ir&type=ws&sni=zmaoz.faculty.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTIuNzcuMjA5LjYxOjQ0Mw==#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://6c27e859-9870-455b-b938-1ef4ddf62843@live.wkrq.com:443?security=tls&sni=live.wkrq.com&fp=chrome&type=ws&path=@UnlimitedDev----@UnlimitedDev-----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev----@UnlimitedDev?ed=8880&host=UNLIMITEDDEV.zr.ir&encryption=none#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTQuMjAwLjU0LjExOjQ0Mw==#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANTQuMTY5LjEzOS4xODo0NDM=#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDVANDMuMjAxLjI1NC4yMTE6NDQz#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4SWphUzViMXFBT1ppVW4wVlF5b01M@81.19.141.45:52873#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
