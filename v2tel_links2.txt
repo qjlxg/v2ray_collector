@@ -5049,3 +5049,4 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.156.254.142:22222?path=/telegram
 trojan://telegram-id-privatevpns@3.78.105.90:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@3.78.105.90:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
 vless://1ad95b6a-8dca-4773-8947-eedf49fdc4c1@104.18.165.38:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D8080&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com&fp=chrome&type=ws&sni=Join.VPNCUSTOMIZE.speedtest.net.Naziitness.com#[🏁]t.me/ConfigsHub
+vless://TELEGRAM-NUFiLTER@151.101.2.165:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Goshi3lamsi.net&type=ws#[🏁]t.me/ConfigsHub
