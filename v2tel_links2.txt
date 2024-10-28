@@ -5216,3 +5216,6 @@ vless://telegram-id-ArV2ray@ArV2ry.fastly80.hosting-ip.com:80?path=%2Ftelegram-A
 vless://3318da47-3065-4781-bf6c-576c6ec354a8@2.182.174.21:31550?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
 vless://3318da47-3065-4781-bf6c-576c6ec354a8@2.182.174.21:31550?security=none&encryption=none&headerType=none&type=tcp#[🏁]t.me/ConfigsHub
 vless://f4397322-d5fa-11ee-aaa8-00505603e70d@172.67.73.241:443?path=%2Fwebsocket&security=tls&encryption=none&host=st-pl-1.brocdn.com&type=ws&sni=st-pl-1.brocdn.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:2053?path=%2FvyvNhfXHnkRJCGfd%3Fed%3D2560&security=tls&serviceName=@icv2ray#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@98.84.199.242:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://2ceb0a55-1fb8-40f0-af6d-4278820abcd2@hajlab.ucdavis.edu:443?security=tls&sni=hajlab.ucdavis.edu&type=ws&path=/@Moft_VPN----@Moft_VPN----@Moft_VPN----@Moft_VPN----@Moft_VPN---@Moft_VPN----@Moft_VPN----@Moft_VPN----@Moft_VPN----@Moft_VPN----@Moft_VPN?ed%3D8880&host=Moft_VPN.net&encryption=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
