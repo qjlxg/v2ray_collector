@@ -5212,3 +5212,7 @@ vless://telegram-id-ArV2ray@ArV2ry.fastly80.hosting-ip.com:80?path=%2Ftelegram-A
 vless://f0696045-7ae9-498e-98db-8b67abad7e4d@154.213.190.105:5631/?type=tcp&encryption=none#[🏁]t.me/ConfigsHub
 vless://TELEGRAM-NUFiLTER@151.101.192.155:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Bashe8tokhobi.net&type=ws#[🏁]t.me/ConfigsHub
 vmess://eyJhZGQiOiIzOC43NS4xMzcuMjciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIyMjMyNCIsInBzIjoiW/Cfj4FddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+vless://telegram-id-ArV2ray@ArV2ry.fastly80.hosting-ip.com:80?path=%2Ftelegram-ArV2ry#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://3318da47-3065-4781-bf6c-576c6ec354a8@2.182.174.21:31550?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://3318da47-3065-4781-bf6c-576c6ec354a8@2.182.174.21:31550?security=none&encryption=none&headerType=none&type=tcp#[🏁]t.me/ConfigsHub
+vless://f4397322-d5fa-11ee-aaa8-00505603e70d@172.67.73.241:443?path=%2Fwebsocket&security=tls&encryption=none&host=st-pl-1.brocdn.com&type=ws&sni=st-pl-1.brocdn.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
