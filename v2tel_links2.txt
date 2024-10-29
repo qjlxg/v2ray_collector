@@ -1321,3 +1321,10 @@ vless://98f0c223-cb75-4faa-859e-47110b1f052b@zula.ir:2096?path=%2FTelegram%23V2r
 trojan://auto@172.67.49.134:443?path=%2Ftrojanfree-76s.pages.dev%2F%3Fed%3D2560&security=tls&host=trojanfree-76s.pages.dev&fp=randomized&type=ws&sni=trojanfree-76s.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://ec3caa8b-df48-497a-889e-d5958e9d3f39@151.101.66.133:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Okhala.com&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 trojan://auto@172.67.49.134:443?path=%2Ftrojanfree-76s.pages.dev%2F%3Fed%3D2560&security=tls&host=trojanfree-76s.pages.dev&fp=randomized&type=ws&sni=trojanfree-76s.pages.dev#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#[🏁]t.me/ConfigsHub
+vless://ab6ac91e-2e86-4f6b-99ac-dd1124a023c4@uigukjlgbkljguyfkjbk.pages.dev:443?type=ws&security=tls&path=%2F%3Fed%3D2048&host=uigukjlgbkljguyfkjbk.pages.dev&fp=randomized&sni=uigukjlgbkljguyfkjbk.pages.dev#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+vless://ab6ac91e-2e86-4f6b-99ac-dd1124a023c4@www.speedtest.net:443?type=ws&security=tls&path=%2F%3Fed%3D2048&host=uigukjlgbkljguyfkjbk.pages.dev&fp=randomized&sni=uigukjlgbkljguyfkjbk.pages.dev#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://aabcbca-baac-acba-acdb-bcbaccbacaba@127.0.0.1:8080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+vless://ab6ac91e-2e86-4f6b-99ac-dd1124a023c4@uigukjlgbkljguyfkjbk.pages.dev:443?type=ws&host=uigukjlgbkljguyfkjbk.pages.dev&path=/?ed%3D2048&security=tls&fp=randomized&sni=uigukjlgbkljguyfkjbk.pages.dev#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
