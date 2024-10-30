@@ -2001,3 +2001,9 @@ vless://e8b87dd9-cc8f-407c-a1f3-a564009fe6ee@104.20.78.17:443?path=%2FTELEGRAM-M
 vless://e8b87dd9-cc8f-407c-a1f3-a564009fe6ee@104.20.78.17:443?path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&host=dc1bf227.vf-8co.pages.dev&type=ws&sni=dc1bf227.vf-8co.pages.dev#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.166.88.198:3306#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
 vless://1b3b276f-44b4-4c39-bfdf-67ff6337b41f@www.visa.com:443?path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=poORiaReD--PErsePOlIs.PagES.DEv&fp=randomized&type=ws&sni=POOrIaREd--persEPolIS.pAGEs.Dev#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@77.247.108.24:990#👉🆔 @v2ray_configs_pool📡🇧🇿Belize
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.171:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#[🏁]t.me/ConfigsHub
+vless://2aa2dba0-e0f7-4ab5-9c92-edadf9ce524c@141.227.128.192:1210?mode=gun&security=reality&encryption=none&authority=&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&fp=chrome&type=grpc&serviceName=%40%40jet_config-%40jet_config-%40jet_config&sni=ubuntu.com&sid=7fe29733#[🏁]t.me/ConfigsHub
+vless://2aa2dba0-e0f7-4ab5-9c92-edadf9ce524c@141.227.128.192:1210?mode=gun&security=reality&encryption=none&authority=&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&fp=chrome&type=grpc&serviceName=%40%40jet_config-%40jet_config-%40jet_config&sni=ubuntu.com&sid=7fe29733#👉🆔 @v2ray_configs_pool📡🇪🇸Spain
+trojan://telegram-id-privatevpns@51.21.46.31:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
