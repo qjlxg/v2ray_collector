@@ -1912,3 +1912,6 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.200.7.113:22222?path=/telegram-c
 trojan://telegram-id-privatevpns@52.212.17.203:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
 trojan://telegram-id-directvpn@3.65.169.97:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
 ss://YWVzLTI1Ni1nY206TEJiY1NDd0dKZ3piclVBRWkxdW91NQ==@5.252.21.191:47760#[🏁]t.me/ConfigsHub
+vless://v2rayvpn_official@bo2bo2.bia2bax.shop:443?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=bo2bo2.bia2bax.shop#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
+vless://v2rayvpn_official@bo3.bia2bax.shop:2096?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+vless://v2rayvpn_official@Zula.ir:80?path=%2F%3Fed%3D2053&security=none&encryption=none&host=bo2bo2.bia2bax.shoP.&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
