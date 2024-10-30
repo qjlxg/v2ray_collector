@@ -1327,3 +1327,5 @@ vless://6285e567-0c25-4ce2-a2fa-80517c1345e1@sky.rethinkdns.com:2096?path=%2F%3F
 trojan://telegram-id-directvpn@18.130.8.142:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
 trojan://telegram-id-directvpn@3.20.102.164:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://75b3eda9-6a85-4254-a6b9-6c14d0f71aad@speedtest-fr5.gcore.com:80?type=httpupgrade&path=%2F---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&host=qwe.com&security=none#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+trojan://telegram-id-privatevpns@46.137.164.187:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.188:8080#👉🆔 @v2ray_configs_pool📡🇱🇹Lithuania
