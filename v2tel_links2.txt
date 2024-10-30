@@ -1562,3 +1562,4 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-bg3.pages.dev:8443?
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@67.220.86.72:8882#[🏁]t.me/ConfigsHub
 vless://f1a495fd-8236-45b7-ae71-4c855ad15367@185.113.10.235:443?security=none&encryption=none&host=neshan.org&headerType=http&type=tcp#[🏁]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@15.188.122.226:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S106)🇨🇵t.me/PrivateVPNs
+vless://Parsashonam-90@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2Fws%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=Parsashonam0.com&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#[🏁]t.me/ConfigsHub
