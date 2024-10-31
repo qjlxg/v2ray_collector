@@ -2133,3 +2133,9 @@ vless://0ac0df1b-cfce-47b1-a286-91a0ec2fc7ef@172.66.44.87:443?path=%2F%3Fed%3D20
 trojan://auto@104.20.19.87:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 trojan://telegram-id-privatevpns@3.70.219.173:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
 ss://bm9uZTpiYmFhY2FjLWFhY2ItYWFjYi1jYmRhLWFjYmJhY2NiYWNiYQ==@127.0.0.1:1080#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+vless://b9a4b21f-e2db-4dc0-a78c-c6a800805d95@162.159.138.178:443?security=tls&sni=join.VPN%43%55%53%54OMIZE.www.speedtest.net.ovh.Powerfullserver.de&type=ws&host=join.VPN%43%55%53%54OMIZE.www.speedtest.net.ovh.Powerfullserver.de&path=%2FTelegram%2CVPN%43%55%53%54OMIZE%3Fed%3D8080&fp=randomized&alpn=h2%2Chttp%2F1.1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://telegram-id-privatevpns@15.188.95.83:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#👉🆔 @v2ray_configs_pool📡🇫🇷France
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@149.202.82.172:8091#👉🆔 @v2ray_configs_pool📡🇫🇷France
+trojan://telegram-id-privatevpns@13.39.229.9:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#👉🆔 @v2ray_configs_pool📡🇫🇷France
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.200.7.113:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
+vless://bc6d4f9c-3197-4f47-8e47-3b9562c41d74@dfnjviodvhihv.pages.dev:443?type=ws&security=tls&path=%2F%3Fed%3D2048&host=dfnjviodvhihv.pages.dev&fp=randomized&sni=dfnjviodvhihv.pages.dev#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
