@@ -2703,3 +2703,13 @@ vmess://eyJhZGQiOiJiZS5rYWxhdnJ5dGEub3JnIiwiYWlkIjoiMSIsImFscG4iOiIiLCJmcCI6IiIs
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@34.105.189.25:443?encryption=none&security=tls&sni=ad.ylks.xyz&type=ws&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
 vless://24cede17-6f3f-4770-9c8b-89c2b6de2803@5.160.63.87:1234?security=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
 ss://Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ==@series-a2-me.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
+trojan://af4dc66a-ec88-4057-9e46-777b584577f7@52.175.28.233:443?security=tls&sni=ch.mjt001.com&type=tcp#[🏁]t.me/ConfigsHub
+trojan://telegram-id-directvpn@3.94.40.90:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@16.24.12.104:443#[🏁]t.me/ConfigsHub
+vless://%50%61%72%73%61%73%68%6F%6E%61%6D-93@185.146.173.39:8880?path=%2F&serviceName=@V2rayNGcloud-Telegram-v2rayNGcloud-@V2rayNGcloud-Telegram-@V2rayNGcloud-Telegram-@V2rayNGcloud&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#[🏁]t.me/ConfigsHub
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@167.82.30.71:80?path=/v2Raynplus+-+samane+-+v2Raynplus+-+v2Raynplus+-+samane+-+v2Raynplus?ed=2560&security=none&encryption=none&host=samane.ir&type=ws#[🏁]t.me/ConfigsHub
+vless://307d758b-d62b-11ee-aaa8-00505603e70d@104.16.60.8:443?encryption=none&security=tls&sni=st-gb-1.brocdn.com&alpn=http%2F1.1&fp=chrome&type=ws&host=st-gb-1.brocdn.com&path=%2Fwebsocket#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://af4dc66a-ec88-4057-9e46-777b584577f7@52.175.28.233:443?security=tls&sni=ch.mjt001.com&type=tcp#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
+vless://17b1e512-d89d-4320-c258-a7cb980b71f6@185.146.173.52:8880?path=%2Fnazan%2Fpedar%2Fsag&security=none&encryption=none&host=splUs.Ir.DigIcYBer.CLIck.&type=httpupgrade#[🏁]t.me/ConfigsHub
+trojan://auto@104.20.18.142:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/#[🏁]t.me/ConfigsHub
+vless://%50%61%72%73%61%73%68%6F%6E%61%6D-93@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40%50%61%72%73%61%73%68%6F%6E%61%6D%2Fws%3Fed%3D2560&serviceName=@V2rayNGcloud-Telegram-v2rayNGcloud-@V2rayNGcloud-Telegram-@V2rayNGcloud-Telegram-@V2rayNGcloud&security=tls&encryption=none&alpn=h2,http/1.1&host=%50%61%72%73%61%73%68%6F%6E%61%6D0.com&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#[🏁]t.me/ConfigsHub
