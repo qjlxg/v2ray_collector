@@ -2604,3 +2604,4 @@ trojan://telegram-id-directvpn@51.21.73.226:22222?security=tls&alpn=http/1.1&hea
 vless://e5b42fa9-d7ac-4a69-af6f-9cc9fb76df45@193.151.151.62:2080?type=tcp&path=%2F&headerType=http&security=none#[🏁]t.me/ConfigsHub
 vless://bc0f921c-81ec-49fb-b439-757d444ad2ea@193.151.151.62:2080?type=tcp&path=%2F&headerType=http&security=none#[🏁]t.me/ConfigsHub
 vless://TELEGRAM-NUFiLTER@NUFiLTER.fastly80.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Sarmayed3aran.net&type=ws#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.121.43.65:8080#[🏁]t.me/ConfigsHub
