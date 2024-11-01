@@ -3570,3 +3570,5 @@ ss://bm9uZTpiY2FhYmFjLWNiYWEtY2FhYi1jYmFkLWFhYmNiY2JjYmFhYw==@127.0.0.1:1080#�
 vless://bbcaaac-aabc-abca-abdc-bbbaacccabca@127.0.0.1:8080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
 ss://bm9uZTpjYmFjYWJhLWNhYmEtY2JhYS1jYmRhLWFjY2JiY2NhYmFiYQ==@127.0.0.1:1080#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
 trojan://auto@104.20.18.145:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://23c0367c-6da7-494b-90e7-697816be5a46@79.127.70.122:8080?security=none&type=tcp&host=doostihaa.com&headerType=http#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@94.177.8.51:443?security=tls&sni=cb.ylks.xyz&type=ws&host=cb.ylks.xyz&path=%2Fblue#👉🆔 @v2ray_configs_pool📡🇦🇹Austria
