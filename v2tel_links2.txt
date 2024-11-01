@@ -3483,3 +3483,5 @@ vless://76c1cf10-8cef-47ce-ba03-076ada44d4c4@104.17.234.128:443?path=/Telegram,V
 vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@45.85.119.191:8880?path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560&security=none&encryption=none&host=late-tooth.granzinhannah.workers.dev&type=ws#[🏁]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@63.34.19.142:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
 vless://Parsashonam-94@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#[🏁]t.me/ConfigsHub
+vless://acfc67e1-69a2-4e56-bbb2-87513cf7f7d7@185.16.110.1:443?path=%2Feaglexw&security=tls&alpn=h3&encryption=none&host=nxginix.pages.dev&fp=random&type=splithttp&sni=nxginix.pages.dev#[🏁]t.me/ConfigsHub
+vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@104.17.147.22:80?path=%2FTelegram-Xv2ry2%3Fed%3D512&security=none&encryption=none&host=www.speedtest.net.nl1.72.18.432.20.20.20.20.ir.xn--g28h.dns-dynamic.net.&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
