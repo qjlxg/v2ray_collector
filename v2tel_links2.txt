@@ -2784,3 +2784,6 @@ trojan://telegram-id-directvpn@3.146.202.248:22222?security=tls&alpn=http/1.1&he
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@23.157.40.47:5500#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 trojan://telegram-id-privatevpns@3.124.127.40:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S114)🇩🇪t.me/PrivateVPNs
 vless://TELEGRAM-NUFiLTER@151.101.194.133:443?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=tls&encryption=none&alpn=h2#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://5f676d84-c151-48c2-bc09-63017f4a822a@104.21.48.53:8443?path=%2FTelegram%40Linkvws%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=yEchIv2raY-x-CGyGFXdDeWaW345556.PageS.deV&fp=chrome&type=ws&sni=pAgES.DEV#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://22c3edb8-d637-11ee-aaa8-00505603e70d@172.67.73.241:443?path=%2Fwebsocket&security=tls&encryption=none&host=st-fr-1.brocdn.com&type=ws&sni=st-fr-1.brocdn.com#[🏁]t.me/ConfigsHub
+vless://22c3edb8-d637-11ee-aaa8-00505603e70d@172.67.73.241:443?path=%2Fwebsocket&security=tls&encryption=none&host=st-fr-1.brocdn.com&type=ws&sni=st-fr-1.brocdn.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
