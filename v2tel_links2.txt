@@ -470,3 +470,4 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:3389#[🏁]t.me/ConfigsHu
 trojan://bpb-trojan@172.64.150.145:443?allowInsecure=1&sni=mindrOOm-5cz.pAgEs.dEV&ws=1&wspath=%2FtrC8BM8bTsAF0AnLYL#[🏁]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.110.1.105:5004#[🏁]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@38.110.1.105:9101#[🏁]t.me/ConfigsHub
+vless://d4861c73-74d0-4d1b-8338-5700239aea99@mamali2.bukhjabaji.ir:2052?type=tcp&security=reality&pbk=hYzyuL3U0PGH7nKahcS8h0zt392Hwad7ZnCGoyYqHQ0&fp=firefox&sni=canva.com&sid=030f845d&spx=%2F&flow=xtls-rprx-vision#[🏁]t.me/ConfigsHub
