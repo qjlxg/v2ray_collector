@@ -527,3 +527,9 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:8443?path=%2FbSy3
 trojan://telegram-id-directvpn@15.188.67.95:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
 vless://cf0790c3-597e-4105-818e-2eebb3e20a09@FAMOUS.fastly3-443.hosting-ip.com:443?path=%2F%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=mashti.com&fp=chrome&type=ws&sni=zmaoz.faculty.ucdavis.edu#[🏁]t.me/ConfigsHub
 vless://cf0790c3-597e-4105-818e-2eebb3e20a09@FAMOUS.fastly2-443.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=mashti.com&type=ws#[🏁]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@18.193.33.3:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
+trojan://telegram-id-directvpn@35.180.223.118:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-privatevpns@18.193.33.3:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇩🇪t.me/PrivateVPNs
+trojan://telegram-id-directvpn@35.180.223.118:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.157.166.190:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.157.166.190:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🏁]t.me/ConfigsHub
