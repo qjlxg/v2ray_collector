@@ -638,3 +638,4 @@ trojan://telegram-id-privatevpns@52.56.86.228:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-directvpn@34.243.98.208:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.2:443?path=%2FxCbksgw2EvizLTfD%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=phonixnetbest344.phonix.workers.dev&fp=chrome&type=ws&sni=phoniXNEtbesT.PHONIx.WoRkeRS.dEv#[🏁]t.me/ConfigsHub
 vless://1dfb1ecb-e610-4ab0-8133-4a384850c1a3@172.67.37.213:8443?path=Pages.Dev%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=ev2raydev.pages.dev&fp=chrome&type=ws&sni=paGES.dEV#[🏁]t.me/ConfigsHub
+trojan://2cba4104747d49d18319e5ade1b93ab5@198.41.220.18:443?path=6b777a91&security=tls&host=avianrecruit.com&type=ws&sni=avianrecruit.com#[🏁]t.me/ConfigsHub
