@@ -1070,3 +1070,7 @@ vless://35ec826a-da4d-4502-fb5d-7a32f77c0b10@www.speedtest.net:2082?path=%2F%40s
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.58:2096?path=%2FmOD571okkDg4TqCz%3Fed%3D2560&security=tls&encryption=none&host=jOINV2ngfast-7nr.PAges.Dev&type=ws&sni=joinV2NGFasT-7Nr.pAgeS.DeV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://9d5e7586-64e1-4c29-9d47-6cbbd57fe8d1@104.16.190.131:8443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=pardazeshvpn-tg48.pages.dev&type=ws&sni=pardazeshvpn-tg48.pages.dev#[🏁]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.55.167.68:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.80:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+trojan://e3f26730-9a23-11ef-9423-1239d0255272@www.speedtest.net:443/?sni=ca1.test3.net&type=ws&host=ca1.test3.net&path=%2Fhowdy#[🏁]t.me/ConfigsHub
