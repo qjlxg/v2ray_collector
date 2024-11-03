@@ -819,3 +819,21 @@ vless://adf846fa-04cc-4bec-a67d-e36f8a48bc83@free.techsonicpremium.shop:443?type
 vless://adf846fa-04cc-4bec-a67d-e36f8a48bc83@free.techsonicpremium.shop:443?type=tcp&security=tls&fp=&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=m.facebook.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
 vless://76c1cf10-8cef-47ce-ba03-076ada44d4c4@funnelytics.io:8443?path=%2FTelegram%2CVPNCUSTOMIZE%3Fed%3D2480&security=tls&encryption=none&alpn=h3#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vmess://eyJhZGQiOiJobXMxOS5iZXN0LXRpemkudG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJobXMxOS5iZXN0LXRpemkudG9wIiwiaWQiOiI2MmFhNWY4MC0wMzI4LTQwMDQtYTM3NS03ZjVhNTlkZjQwMjIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3dzIiwicG9ydCI6IjQ0MyIsInBzIjoiW/Cfj4FddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6ImhtczE5LmJlc3QtdGl6aS50b3AiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vless://17bc17be-8764-4b9f-8c2c-6a5cd190ef01@www.speedtest.net:80?path=%2F%3Fed%3D2056&security=none&encryption=none&host=sub-89ytdd0zy-rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--qeiaa57238baaaaaaabaacaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw814.ir.xn--cr8haaaaaaaaaaaaaaaa.xn--g28h.opetateam.ir.&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://25e42986-d60c-11ee-aaa8-00505603e70d@172.67.73.241:443?security=tls&sni=st-fr-1.brocdn.com&type=ws&host=st-fr-1.brocdn.com&path=%2Fwebsocket#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://NISHIKUITAN222@104.19.22.240:443?allowInsecure=1&ws=1&wspath=%2F#[🏁]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@13.49.190.24:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🏁]t.me/ConfigsHub
+vless://25e42986-d60c-11ee-aaa8-00505603e70d@172.67.73.241:443?security=tls&sni=st-fr-1.brocdn.com&type=ws&host=st-fr-1.brocdn.com&path=%2Fwebsocket#[🏁]t.me/ConfigsHub
+vless://5fdd5a95-61e1-4c6f-b48a-efccc1156350@172.66.47.49:443?security=tls&sni=nxginix.pages.dev&type=splithttp&path=%2Feaglexw&fp=random&alpn=h2&allowInsecure=1#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.92.72:8888#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://155da7c1-4d5f-4479-a214-d2d1414d07f6@172.64.33.212:80?security=none&type=httpupgrade&host=ak.www.speedtest.net.zula.ir.iranfastfod.iR.&path=%2Ftelegram-AfV2ry%2Ctelegram-AfV2ry%2Ctelegram-AfV2ry%2Ctelegram-AfV2ry%2Ctelegram-AfV2ry%2Ctelegram-AfV2ry%2Ctelegram-AfV2ry%2Ctelegram-AfV2ry%2Ctelegram-AfV2ry%2Ctelegram-AfV2ry%2Ctelegram-AfV2ry%2Ctelegram-AfV2ry%3Fed%3D80#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://155da7c1-4d5f-4479-a214-d2d1414d07f6@172.64.33.212:80?security=none&type=httpupgrade&host=ak.www.speedtest.net.zula.ir.iranfastfod.iR.&path=%2Ftelegram-AfV2ry%2Ctelegram-AfV2ry%2Ctelegram-AfV2ry%2Ctelegram-AfV2ry%2Ctelegram-AfV2ry%2Ctelegram-AfV2ry%2Ctelegram-AfV2ry%2Ctelegram-AfV2ry%2Ctelegram-AfV2ry%2Ctelegram-AfV2ry%2Ctelegram-AfV2ry%2Ctelegram-AfV2ry%3Fed%3D80#[🏁]t.me/ConfigsHub
+trojan://NISHIKUITAN222@172.67.200.209:443?allowInsecure=1&ws=1&wspath=%2F#[🏁]t.me/ConfigsHub
+trojan://NISHIKUITAN222@104.27.78.125:443?allowInsecure=1&ws=1&wspath=%2F#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@23.150.248.122:7002#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://NISHIKUITAN222@104.27.78.125:443?allowInsecure=1&ws=1&wspath=%2F#[🏁]t.me/ConfigsHub
+trojan://NISHIKUITAN222@188.114.98.221:443?allowInsecure=1#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.150.152.41:2375#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@joinmahdiserver-bg3.pages.dev:8443?path=%2FF9DVuhwdBN6mSnuE%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=JoiNMAhdISERver-Bg3.pAGES.DEv&fp=randomized&type=ws&sni=JoInMahDISeRver-bg3.PAGes.Dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://NISHIKUITAN222@172.67.200.209:443?allowInsecure=1&ws=1&wspath=%2F#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://17bc17be-8764-4b9f-8c2c-6a5cd190ef01@www.speedtest.net:80?path=%2F%3Fed%3D2056&security=none&encryption=none&host=sub-89ytdd0zy-rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--qeiaa57238baaaaaaabaacaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw814.ir.xn--cr8haaaaaaaaaaaaaaaa.xn--g28h.opetateam.ir.&type=ws#[🏁]t.me/ConfigsHub
