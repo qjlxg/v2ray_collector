@@ -709,3 +709,13 @@ vless://76c1cf10-8cef-47ce-ba03-076ada44d4c4@funnelytics.io:8443?path=%2FTelegra
 trojan://NISHIKUITAN222@173.245.49.133:443?allowInsecure=1&ws=1&wspath=%2F#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 trojan://NISHIKUITAN222@162.159.1.27:443?allowInsecure=1&ws=1&wspath=%2F#[🏁]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@98.82.48.237:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇺🇸
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@89.168.17.228:443?encryption=none&security=tls&sni=cw.ylks.xyz&type=ws&path=%2Fblue#👉🆔 @v2ray_configs_pool📡🇮🇹Italy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@69.50.95.174:5004#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://4a60a8e0-b51d-41ae-8500-1b0b6724c6e6@185.247.184.147:2060?security=reality&sni=dash.cloudflare.com&alpn=h2%2Chttp%2F1.1&fp=chrome&pbk=1k5jM49Bx5DEAfS5Vpqz93t2XOXk-kwXl0V5Q9jn_WY&sid=f77e5398&type=grpc#👉🆔 @v2ray_configs_pool📡🇮🇹Italy
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+vless://a70e1ca7-0cfa-5d07-b068-ca7657f9aba8@104.17.148.22:2095?path=join-%40mosiv2-%40mosiv2-%3Fed%3D2048&security=none&encryption=none&host=www.digikala.com.joinTelegram.mosiv2.fi3.vless.Sitespeedtest.net.&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://2eb5b712-118b-4c15-8d31-ec77a9c3b028@199.232.0.128:443?path=%2FVLESS%3Fed%3D2560&allowInsecure=1&security=tls&encryption=none&host=joinbede-Eliv2ray.com&fp=edge&type=ws&sni=JoinBede-ELiV2RaY.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vmess://eyJ2IjogIjIiLCAiYWRkIjogIjEwNC4yNi4wLjk1IiwgInBvcnQiOiAiNDQzIiwgImlkIjogIjA1NjQxY2Y1LTU4ZDItNGJhNC1hOWYxLWIzY2RhMGIxZmIxZCIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgImhvc3QiOiAib2JkaWkuY2ZkIiwgInBhdGgiOiAiL2xpbmt3cyIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICJvYmRpaS5jZmQiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjhVbml0ZWQgU3RhdGVzIn0=
+vless://2eb5b712-118b-4c15-8d31-ec77a9c3b028@199.232.8.139:443?path=%2FVLESS%3Fed%3D2560&allowInsecure=1&security=tls&encryption=none&host=joinbede-Eliv2ray.com&fp=edge&type=ws&sni=JoinBede-ELiV2RaY.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://0ac0df1b-cfce-47b1-a286-91a0ec2fc7ef@pardazeshvpn-tg7.pages.dev:443?encryption=none&security=tls&sni=pardazeshvpn-tg7.pages.dev&fp=randomized&type=ws&host=pardazeshvpn-tg7.pages.dev&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
