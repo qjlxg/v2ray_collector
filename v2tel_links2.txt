@@ -1629,3 +1629,8 @@ vless://37b6b150-2a40-4770-c9fb-da6d6c94fc1f@104.17.147.22:8080?path=%2FTELEGRAM
 vless://Telegram_____lombo_channel@speedtest.net:80?path=ws%2F%3Fed%3D2048%2Clombo_channel%2Clombo_channel%2Clombo_channel&security=none&encryption=none&host=aminderonami.com&type=ws#[🏁]t.me/ConfigsHub
 trojan://telegram-id-directvpn@3.14.47.95:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-privatevpns@35.159.182.9:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S114)🇩🇪t.me/PrivateVPNs
+vless://a94edb46-0734-4593-a8b5-9cd11ddc57f6@172.66.45.7:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=5c53ca21.vpn-aryoo.pages.dev&fp=chrome&type=ws&sni=5c53ca21.vpn-aryoo.pages.dev#[🏁]t.me/ConfigsHub
+vless://dd8996db-8408-47a5-93f0-50067917bdfc@151.101.128.155:80?security=none&type=ws&host=Ojolat2boqol.net&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048#[🏁]t.me/ConfigsHub
+vless://1949f066-bcb0-49be-88e9-74abd940f80e@51.75.30.8:80?path=%2Fhttp&security=none&encryption=none&type=ws#[🏁]t.me/ConfigsHub
+vless://a7cc6f99-9240-47f4-950e-468c4dfd8a30@141.227.140.174:2000?security=reality&sni=chatbot.chronopost.fr&type=tcp&fp=qq&pbk=57MdXhi5xKVlKz9_t-oai5dZ_dcuF3LpSQQVSl9BwR8&sid=5273fd24#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@3.29.154.250:443#[🏁]t.me/ConfigsHub
