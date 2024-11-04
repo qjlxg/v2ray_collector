@@ -1634,3 +1634,5 @@ vless://dd8996db-8408-47a5-93f0-50067917bdfc@151.101.128.155:80?security=none&ty
 vless://1949f066-bcb0-49be-88e9-74abd940f80e@51.75.30.8:80?path=%2Fhttp&security=none&encryption=none&type=ws#[🏁]t.me/ConfigsHub
 vless://a7cc6f99-9240-47f4-950e-468c4dfd8a30@141.227.140.174:2000?security=reality&sni=chatbot.chronopost.fr&type=tcp&fp=qq&pbk=57MdXhi5xKVlKz9_t-oai5dZ_dcuF3LpSQQVSl9BwR8&sid=5273fd24#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@3.29.154.250:443#[🏁]t.me/ConfigsHub
+vless://797e6db4-0e2a-4073-afa9-4204b60fd791@hajlab.ucdavis.edu:443?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=tls&encryption=none&host=joinshhproxybedeeee.ir&type=ws&sni=hajlab.ucdavis.edu#[🏁]t.me/ConfigsHub
+vless://bba5ce00-09e4-4fce-8d26-35db5b4e38d4@cfpage-39t.pages.dev:443?path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=cfpage-39t.pages.dev&fp=random&type=ws&sni=cfpage-39t.pages.dev#[🏁]t.me/ConfigsHub
