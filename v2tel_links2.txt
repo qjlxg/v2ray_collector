@@ -1287,3 +1287,14 @@ trojan://bpb-trojan@172.64.153.235:2053?path=%2FtrEjWhhuRjwiMwSbDN%2FZGUucmFkaWN
 vless://f8746834-a359-4e90-96e1-44a6e6d5a13c@www.speedtest.net:8880?path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet?ed=2048&security=none&encryption=none&host=ftp.debian.org.www.digikala.com.www.speedtest.net.SnappFoodSuppOrt.ShoP.&type=ws#[🏁]t.me/ConfigsHub
 vless://07088446-7e44-4d20-b302-0e0c4549fa7e@www.speedtest.net:8080?path=/@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET--@Maznet--@MAZNET%3Fed%3D1024&encryption=none&security=none&type=ws&host=maznet---_-_---maznet2.iMamhussaIn.sbs.#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@series-a2-me.varzesh360.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.44.67:443?path=%2FsksaFrmBNrhI1VPd%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=nd-dlm.pages.dev&fp=randomized&type=ws&sni=nd-dlm.PagEs.DEV#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@23.157.40.103:5003#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.47.189:443?path=%2FrcXSDYXlNpe2PLhu%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=nd-dlm.pages.dev&fp=randomized&type=ws&sni=Nd-Dlm.PagES.Dev#[🏁]t.me/ConfigsHub
+vless://bba5ce00-09e4-4fce-8d26-35db5b4e38d4@172.66.47.33:443?security=tls&sni=cfpage-39t.pages.dev&type=ws&host=cfpage-39t.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&fp=chrome#[🏁]t.me/ConfigsHub
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@140.248.183.178:80?path=%2FkptMTT8pTmxLWsoJ%3Fed%3D2560&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=aliii.ir&fp=randomized&type=ws&sni=nD-dlm.PageS.DeV#[🏁]t.me/ConfigsHub
+vless://dfa949a3-1aa3-445c-9f6f-a7f3c1de69b4@151.101.2.216:80?security=none&type=ws&host=Sarmayed3aran.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://bba5ce00-09e4-4fce-8d26-35db5b4e38d4@172.66.47.33:443?security=tls&sni=cfpage-39t.pages.dev&type=ws&host=cfpage-39t.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&fp=chrome#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://auto@104.20.18.79:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozODc5ODc4MC02ZDk5LTQ4OTYtOGUzZC0yNThlNjMwYzEyNjU@hzhz1.sssyun.xyz:39202#[🏁]t.me/ConfigsHub
+vless://dfa949a3-1aa3-445c-9f6f-a7f3c1de69b4@151.101.2.216:80?security=none&type=ws&host=Sarmayed3aran.net#[🏁]t.me/ConfigsHub
+trojan://auto@104.20.18.79:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#👉🆔 @v2ray_configs_pool📡🇺🇸United States
