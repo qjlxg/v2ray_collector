@@ -2653,3 +2653,5 @@ vmess://eyJhZGQiOiIyMy4xNTguNTYuODEiLCJhaWQiOiIxIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9z
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@157.254.227.37:587?security=tls&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=%2F%3Fed%3D2560fp%3Dchrome#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://9d82150f-54ad-4cb5-a390-91d94398f5f0@151.101.3.8:80?type=ws&host=barkatc2.ir&path=%2FTelegram-%69pV2Ray-Telegram-%69pV2Ray-Telegram-%69pV2Ray-Telegram-%69pV2Ray-Telegram-%69pV2Ray%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 trojan://telegram-id-privatevpns@18.169.197.157:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@23.157.40.113:8090#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.39.232:2083?path=%2FTelegram%23V2ray_Alpha%2F%3D%3Fed%3D2560&security=tls&encryption=none&alpn=h2#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
