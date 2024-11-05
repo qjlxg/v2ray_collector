@@ -2711,3 +2711,5 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.121.28:22222?security=tls&sni
 vless://a4480b26-f3c1-480e-bac5-8a3f44ea3cc0@151.101.3.8:80?security=none&type=ws&host=5776.ir&path=%2FVLESS%3Fed%3D80#[🏁]t.me/ConfigsHub
 vless://a4480b26-f3c1-480e-bac5-8a3f44ea3cc0@151.101.3.8:80?security=none&type=ws&host=5776.ir&path=%2FVLESS%3Fed%3D80#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://182602e4-b3d2-461d-b880-1bf10b7f82de@104.17.148.22:443?security=tls&sni=www.felafel.org&alpn=h3#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@38.105.28.10:587?security=tls&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=%2F%3Fed%3D2560fp%3Dchrome#[🏁]t.me/ConfigsHub
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@158.180.231.216:443?security=tls&sni=cg.ylks.xyz&type=ws&host=cg.ylks.xyz&path=%2Fblue#👉🆔 @v2ray_configs_pool📡🇮🇹Italy
