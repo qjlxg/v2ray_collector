@@ -4145,3 +4145,4 @@ vmess://eyJhZGQiOiJqaWFuLmRkbnNmcmVlLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIi
 vless://bc5e7e48-9b47-4903-a57a-f4723f5dd3be@104.17.147.22:443?security=tls&sni=www.felafel.org&type=grpc&serviceName=t.me/entryNET&fp=chrome&alpn=h3,h2,http/1.1#[🏁]t.me/ConfigsHub
 trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.39.232:2083?security=tls&sni=ArGodev11222.PaGes.Dev&type=ws&host=argodev11222.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#[🏁]t.me/ConfigsHub
 vless://bc5e7e48-9b47-4903-a57a-f4723f5dd3be@104.17.147.22:443?security=tls&sni=www.felafel.org&type=grpc&serviceName=%40ConfigTell%2C%40ConfigTell%2C%40ConfigTell&fp=chrome&alpn=h3,h2,http/1.1#[🏁]t.me/ConfigsHub
+vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@198.41.214.251:2052?path=%2F%40mobilesignal%3Fed%3D2560&security=none&encryption=none&host=late-tooth.granzinhannah.workers.dev&type=ws#[🏁]t.me/ConfigsHub
