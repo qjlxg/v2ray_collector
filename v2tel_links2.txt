@@ -4142,3 +4142,6 @@ ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.167:443#[🏁]t.me/ConfigsHub
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@34.216.240.225:443#[🏁]t.me/ConfigsHub
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.62.164:443#[🏁]t.me/ConfigsHub
 vmess://eyJhZGQiOiJqaWFuLmRkbnNmcmVlLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJkY2ZkNzMzZC0xN2U3LTQ3ZDItOWI0My0xYTgzOTRiNTZlNGMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZGNmZDczM2QiLCJwb3J0IjoiMjI2MzgiLCJwcyI6Ilvwn4+BXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vless://bc5e7e48-9b47-4903-a57a-f4723f5dd3be@104.17.147.22:443?security=tls&sni=www.felafel.org&type=grpc&serviceName=t.me/entryNET&fp=chrome&alpn=h3,h2,http/1.1#[🏁]t.me/ConfigsHub
+trojan://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.39.232:2083?security=tls&sni=ArGodev11222.PaGes.Dev&type=ws&host=argodev11222.pages.dev&path=%2FTelegram%40V2ray_Alpha%2F%3Fed%3D2560&fp=randomized&alpn=h2%2Chttp%2F1.1#[🏁]t.me/ConfigsHub
+vless://bc5e7e48-9b47-4903-a57a-f4723f5dd3be@104.17.147.22:443?security=tls&sni=www.felafel.org&type=grpc&serviceName=%40ConfigTell%2C%40ConfigTell%2C%40ConfigTell&fp=chrome&alpn=h3,h2,http/1.1#[🏁]t.me/ConfigsHub
