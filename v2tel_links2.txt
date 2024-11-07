@@ -4054,3 +4054,7 @@ vless://2b4fbbab-5fe6-42ec-92c0-8ccf62e5e829@hajlab.ucdavis.edu:443?path=%2F%40S
 trojan://telegram-id-privatevpns@18.130.177.155:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
 vless://bc5e7e48-9b47-4903-a57a-f4723f5dd3be@www.speedtest.net:443?mode=gun&security=tls&encryption=none&alpn=h3,h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=%40ConfigTell%2C%40ConfigTell%2C%40ConfigTell&sni=www.felafel.org#[🏁]t.me/ConfigsHub
 trojan://telegram-id-directvpn@13.51.134.156:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://03f64bac-c12e-4bdd-8b06-345400ba1eb0@151.101.2.216:80?security=none&type=ws&host=2sibnaaana.net&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048#[🏁]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@13.61.56.91:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🏁]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@13.36.128.63:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🏁]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@15.188.241.33:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[🏁]t.me/ConfigsHub
