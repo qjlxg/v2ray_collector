@@ -2665,3 +2665,8 @@ trojan://azadnet-trojan@104.21.36.165:443?path=%2FtrbRb6rQQHUXO1sk03%3Fed%3D2560
 vless://%54%45%4c%45%47%52%41%4d%2d%4e%55%46%69%4c%54%45%52@151.101.194.133:80?path=%2Ftelegram-%4e%55%46%69%4c%54%45%52%2Ctelegram-%4e%55%46%69%4c%54%45%52%2Ctelegram-%4e%55%46%69%4c%54%45%52%2Ctelegram-%4e%55%46%69%4c%54%45%52%3Fed&security=none&encryption=none&host=Jomeekharast2.net&type=ws#[🏁]t.me/ConfigsHub
 trojan://auto@104.25.254.4:2087?path=%2F%40v2rayngzendegimamad%2F%3Fed%3D2560&security=tls&host=trojanfree-76s.pages.dev&fp=randomized&type=ws&sni=trojanfree-76s.pages.dev#[🏁]t.me/ConfigsHub
 trojan://auto@185.146.173.158:443?path=%2F%40v2rayngzendegimamad%2F%3Fed%3D2560&security=tls&host=esetsecuritylicense.bwnsmv.workers.dev&type=ws&sni=esetsecuritylicense.bwnsmv.workers.dev#[🏁]t.me/ConfigsHub
+trojan://auto@108.162.195.83:443?path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F&security=tls&host=b96ef9ae.trojanfree-76s.pages.dev&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#[🏁]t.me/ConfigsHub
+trojan://auto@108.162.195.202:443?path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F&security=tls&host=b96ef9ae.trojanfree-76s.pages.dev&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev#[🏁]t.me/ConfigsHub
+vless://201049a5-69b2-4444-9c75-dcf674b7e8bd@136.244.76.124:8787?mode=multi&security=none&encryption=none&authority=&type=grpc&serviceName=#[🏁]t.me/ConfigsHub
+trojan://auto@104.20.22.158:443?path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F&security=tls&host=b96ef9ae.trojanfree-76s.pages.dev&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev#[🏁]t.me/ConfigsHub
