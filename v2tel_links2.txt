@@ -2506,3 +2506,9 @@ trojan://telegram-id-privatevpns@16.171.79.132:22222?security=tls&alpn=http/1.1&
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:8443?path=%2FbSy3kNZL7wmMA0OS%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=JOiNMAHdiSERVer-BG3.Pages.dEv&fp=randomized&type=ws&sni=JOiNmahDIsErVER-Bg3.PAGes.deV#[🏁]t.me/ConfigsHub
 vless://bce356e7-85db-43ad-9442-b6470ab453ad@213.176.127.56:8989?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#[🏁]t.me/ConfigsHub
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.245.114:443?security=tls&sni=lk.ylks01.eu.org&type=ws&host=lk.ylks01.eu.org&path=%2Fblue#[🏁]t.me/ConfigsHub
+vless://a0754407-2c37-479d-9f79-6c09e8923879@79.127.70.87:2087?security=none&encryption=none&host=doostihaa.com&headerType=http&type=tcp#[🏁]t.me/ConfigsHub
+trojan://6c0ed3fb-f0b0-5b53-a762-f8f8d832bdba@172.67.68.157:8443?path=trojan-ws%2F%3Fed%3D2048&security=tls&alpn=http%2F1.1&host=vfarid.xcdi.wORKERS.DEv&type=ws&sni=vfarid.xcdi.wORKERS.DEv#[🏁]t.me/ConfigsHub
+trojan://auto@104.17.142.12:443?path=%2Ftrojanfree-76s.pages.dev%2F%3Fed%3D2560&security=tls&host=trojanfree-76s.pages.dev&fp=randomized&type=ws&sni=trojanfree-76s.pages.dev#[🏁]t.me/ConfigsHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.81.208:443#[🏁]t.me/ConfigsHub
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.182:443#[🏁]t.me/ConfigsHub
+vless://a64f0cea-ca89-40e6-b316-b3badff1eb90@172.66.47.151:443?path=%2FT7OzaaLG5SkllZJf%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=IsaA1.pAGEs.DEV&fp=randomized&type=ws&sni=iSaA1.paGes.DEv#[🏁]t.me/ConfigsHub
