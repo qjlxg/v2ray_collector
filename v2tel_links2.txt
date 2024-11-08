@@ -2561,3 +2561,7 @@ vless://18e575bd-3828-4351-80ed-2c1647718688@188.245.149.119:1877?security=reali
 trojan://telegram-id-privatevpns@18.197.86.157:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇩🇪t.me/PrivateVPNs
 trojan://telegram-id-directvpn@15.236.34.231:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.193.146.11:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🏁]t.me/ConfigsHub
+trojan://auto@162.159.44.209:443?path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F&security=tls&host=b96ef9ae.trojanfree-76s.pages.dev&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev#[🏁]t.me/ConfigsHub
+trojan://auto@104.20.19.105:443?path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F&security=tls&host=b96ef9ae.trojanfree-76s.pages.dev&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev#[🏁]t.me/ConfigsHub
+vmess://eyJhZGQiOiIxMjguMjA0LjIyMy40MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIxMWNjZjY0Yy00NDViLTRkOGEtOTgzMC05MTQ3ZTM5MWY2NjMiLCJuZXQiOiJncnBjIiwicGF0aCI6IiIsInBvcnQiOiI0MTY2MyIsInBzIjoiW/Cfj4FddC5tZS9Db25maWdzSHViIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9
+trojan://auto@108.162.195.209:443?path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F&security=tls&host=b96ef9ae.trojanfree-76s.pages.dev&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev#[🏁]t.me/ConfigsHub
