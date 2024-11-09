@@ -3269,3 +3269,4 @@ vless://a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.246.220:443?security=tls&sni
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@141.101.115.220:443?security=tls&sni=lm.kpcloud.eu.org&type=ws&host=lm.kpcloud.eu.org&path=%2F%3Fed%3D2048#[🏁]t.me/ConfigsHub
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.41.196.225:443?security=tls&sni=lm.kpcloud.eu.org&type=ws&host=lm.kpcloud.eu.org&path=%2F%3Fed%3D2048#[🏁]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.213.141.19:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#[🏁]t.me/ConfigsHub
+vless://59e5ed3c-b552-459c-af07-ab8cb0a34eee@VIP.The-Ashegh.org:80?path=%2Ftelegram-HideNg_App%2Ctelegram-HideNg_App%2Ctelegram-HideNg_App%2Ctelegram-HideNg_App%3Fed%3D1024&security=none&encryption=none&host=Join.HideNg_App.org&type=ws#[🏁]t.me/ConfigsHub
