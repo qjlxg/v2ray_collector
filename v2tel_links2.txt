@@ -2992,3 +2992,8 @@ vless://ab8a989e-ccce-4e0d-9aa7-8ae87928858c@185.146.173.58:80/?type=ws&encrypti
 vmess://eyJhZGQiOiJ2YWxraW5pbi5vcmciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InZhbGtpbmluLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6Ilvwn4+BXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiJ2YWxraW5pbi5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vless://95d5f98e-9303-4f75-8468-129c3f7bd318@172.66.47.169:443/?type=ws&encryption=none&host=channel-mosiv2.pages.dev&security=tls&sni=MoSiv2.PaGES.DeV&fp=randomized#[🏁]t.me/ConfigsHub
 vless://201049a5-69b2-4444-9c75-dcf674b7e8bd@136.244.76.124:8787/?type=grpc&encryption=none#[🏁]t.me/ConfigsHub
+trojan://telegram-id-directvpn@18.134.36.66:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@35.157.54.109:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇩🇪t.me/PrivateVPNs
+trojan://auto@104.16.224.104:443?path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560&security=tls&host=trojanmz.pages.dev&type=ws&sni=trojanmz.pages.dev#[🏁]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@35.157.54.109:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
+trojan://telegram-id-directvpn@18.134.36.66:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
