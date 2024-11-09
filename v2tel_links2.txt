@@ -3049,3 +3049,7 @@ vless://4a4c4a4d-36f4-4f84-b86f-0aa2489c6acf@432329324.f-sub.com:2052?security=n
 vless://4a4c4a4d-36f4-4f84-b86f-0aa2489c6acf@289309476.namasha.com.tr:2052?security=none&type=httpupgrade&headerType=&path=%2Fd3d3LmlyYW5ob5N0LmNvbQ%3D%3D%3Fed%3D2082&host=3203420354.torob.COM.TR.#[🏁]t.me/ConfigsHub
 trojan://auto@104.20.20.6:443?path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F&security=tls&host=b96ef9ae.trojanfree-76s.pages.dev&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev#[🏁]t.me/ConfigsHub
 vless://4a4c4a4d-36f4-4f84-b86f-0aa2489c6acf@221092033.f-sub.com:2052?security=none&type=httpupgrade&headerType=&path=%2Fd3d3LmlyYW5ob5N0LmNvbQ%3D%3D%3Fed%3D2082&host=221092033.f-sub.COM.#[🏁]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@18.132.158.128:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S108)🇬🇧t.me/PrivateVPNs
+vless://4f9219f6-ba56-4e5a-a676-0978d8b613e4@188.114.99.91:443?path=%2FTELEGRAM-MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=Noshteri.hooplnqpb.ir&fp=chrome&type=ws&sni=Noshteri.hooplnqpb.ir#[🏁]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@18.132.158.128:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
+vless://262ddcb2-e051-466b-8d1c-d70cfc2a10f1@www.speedtest.net:2052?path=%2F&security=none&encryption=none&host=free.dllmoviprime.com.tr&type=httpupgrade#[🏁]t.me/ConfigsHub
