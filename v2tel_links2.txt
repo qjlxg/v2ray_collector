@@ -2959,3 +2959,11 @@ vless://tel3gram-_v2rayvpn_official@bo33.bia2bax.shop:2096?security=none&encrypt
 vless://tel3gram-_v2rayvpn_official@www.speedtest.net:2052?path=%2F%3Fed%3D2053&security=none&encryption=none&host=bo2bo2.bia2bax.shop&type=httpupgrade#[🏁]t.me/ConfigsHub
 vless://tel3gram-_v2rayvpn_official@Zula.ir:80?path=%2F%3Fed%3D2053&security=none&encryption=none&host=bo2bo2.bia2bax.shoP.&type=ws#[🏁]t.me/ConfigsHub
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?encryption=none&security=tls&sni=DAiLy-coNfiGS.paGEs.deV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=daily-configs.pages.dev&path=%2FTELEGRAM-Daily_Configs%3Fed%3D2560#[🏁]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@54.93.47.39:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@54.93.47.39:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇩🇪t.me/PrivateVPNs
+vless://6514d92e-1a1b-4690-a69d-b4c9c4fcc75f@151.101.66.228:443?security=tls&sni=haj%6cab.%75cda%76is.%65du&type=ws&host=joi%6eshh%70rox%79bed%65eee%2eir#[🏁]t.me/ConfigsHub
+vless://e21493ca-3ac1-4792-bb69-c5c0ebc8d005@185.29.223.149:40289?security=none&type=tcp#[🏁]t.me/ConfigsHub
+vless://bc6990be-8be1-4a9b-940d-bd9b0f855e11@www.speedtest.net:8880?path=%2F%3Fed%3D2560%3F-@V2RAYNPLUS--@V2RAYNPLUS--@V2RAYNPLUS--@V2RAYNPLUS&security=none&encryption=none&host=www.speedtest.net.i.xn--108-n0e9j.cdn.kiava.live.&type=ws#[🏁]t.me/ConfigsHub
+vless://bc6990be-8be1-4a9b-940d-bd9b0f855e11@172.66.44.115:8880?path=%2F%3Fed%3D2560%3F-@V2RAYNPLUS--@V2RAYNPLUS--@V2RAYNPLUS--@V2RAYNPLUS&security=none&encryption=none&host=www.speedtest.net.i.xn--108-qze93f.cdn.kiava.live.&type=ws#[🏁]t.me/ConfigsHub
+trojan://telegram-id-directvpn@13.37.17.237:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-directvpn@13.37.17.237:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
