@@ -2958,3 +2958,4 @@ trojan://telegram-id-directvpn@15.188.153.85:22222?security=tls&alpn=http/1.1&he
 vless://tel3gram-_v2rayvpn_official@bo33.bia2bax.shop:2096?security=none&encryption=none&headerType=none&type=tcp#[🏁]t.me/ConfigsHub
 vless://tel3gram-_v2rayvpn_official@www.speedtest.net:2052?path=%2F%3Fed%3D2053&security=none&encryption=none&host=bo2bo2.bia2bax.shop&type=httpupgrade#[🏁]t.me/ConfigsHub
 vless://tel3gram-_v2rayvpn_official@Zula.ir:80?path=%2F%3Fed%3D2053&security=none&encryption=none&host=bo2bo2.bia2bax.shoP.&type=ws#[🏁]t.me/ConfigsHub
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:443?encryption=none&security=tls&sni=DAiLy-coNfiGS.paGEs.deV&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=daily-configs.pages.dev&path=%2FTELEGRAM-Daily_Configs%3Fed%3D2560#[🏁]t.me/ConfigsHub
