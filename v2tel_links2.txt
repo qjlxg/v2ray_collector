@@ -2952,3 +2952,9 @@ vless://abed6c45-081d-4f72-860b-e6a266ea932a@5.75.203.115:51646?security=none&en
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@16.24.121.2:443#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@35.176.144.31:443#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.74.69:443#[🏁]t.me/ConfigsHub
+trojan://telegram-id-directvpn@15.188.153.85:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
+vless://tel3gram-_v2rayvpn_official@bo2bo2.bia2bax.shop:443?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=bo2bo2.bia2bax.shop#[🏁]t.me/ConfigsHub
+trojan://telegram-id-directvpn@15.188.153.85:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://tel3gram-_v2rayvpn_official@bo33.bia2bax.shop:2096?security=none&encryption=none&headerType=none&type=tcp#[🏁]t.me/ConfigsHub
+vless://tel3gram-_v2rayvpn_official@www.speedtest.net:2052?path=%2F%3Fed%3D2053&security=none&encryption=none&host=bo2bo2.bia2bax.shop&type=httpupgrade#[🏁]t.me/ConfigsHub
+vless://tel3gram-_v2rayvpn_official@Zula.ir:80?path=%2F%3Fed%3D2053&security=none&encryption=none&host=bo2bo2.bia2bax.shoP.&type=ws#[🏁]t.me/ConfigsHub
