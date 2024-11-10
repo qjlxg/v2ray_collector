@@ -3458,3 +3458,6 @@ vless://782efefc-aac2-a7f2-6e2b-e42f7bc5d75a@103.184.45.164:443?path=%2Fquran%2F
 trojan://telegram-id-privatevpns@51.24.3.207:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@51.24.3.207:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S108)🇬🇧t.me/PrivateVPNs
 vless://98ec2529-5c2f-429c-a81e-f3d5254ac2eb@pscresearch.faculty.ucdavis.edu:443?path=ws%2F%3Fed%3D2048&security=tls&encryption=none&host=s5brtgunbjgbnr.com&type=ws&sni=pscresearch.faculty.ucdavis.edu#[🏁]t.me/ConfigsHub
+vless://07b73107-f52d-54f1-8010-b9c8d1751a31@199.232.8.39:443?security=tls&allowInsecure=1&fp=edge&host=Elena-trump.com&type=ws&sni=EleNa-TrUmP.cOm#[🏁]t.me/ConfigsHub
+vless://64d45405-ae66-4d37-98e4-8b36548e3c75@81.12.35.63:5001?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=liq-vpn#[🏁]t.me/ConfigsHub
+vless://07b73107-f52d-54f1-8010-b9c8d1751a31@speedtest.net:80?host=Elena-trump.com.&type=ws#[🏁]t.me/ConfigsHub
