@@ -3400,3 +3400,5 @@ trojan://telegram-id-directvpn@18.135.81.29:22222?security=tls&alpn=http/1.1&hea
 vless://65c1cef9-cfa8-460a-b583-9d2d7ff91a21@funnelytics.io:8443?path=/Telegram,VPNCUSTOMIZE%3Fed%3D2480&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=join.bede.VPNCUSTOMIZE.www.speedtest.net.Powerfullserver.de&fp=chrome&type=ws&sni=join.bede.VPNCUSTOMIZE.www.speedtest.net.Powerfullserver.de#[🏁]t.me/ConfigsHub
 trojan://telegram-id-directvpn@18.135.81.29:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.132.216:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇫🇷
+trojan://auto@104.26.12.54:443?path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560&security=tls&host=trojanmz.pages.dev&type=ws&sni=trojanmz.pages.dev#[🏁]t.me/ConfigsHub
+trojan://auto@104.20.20.78:443?path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F&security=tls&host=b96ef9ae.trojanfree-76s.pages.dev&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev#[🏁]t.me/ConfigsHub
