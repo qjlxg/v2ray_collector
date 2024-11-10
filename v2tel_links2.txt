@@ -3416,3 +3416,7 @@ vless://61f5ccab-c245-471a-b286-9209f3c6421e@185.121.235.210:1624?security=reali
 vless://f8275dfe-4fd7-46b2-8d6c-de1891afb443@199.232.210.133:443?type=ws&host=Osiris-shup.com&path=de?ed%3D1048&security=tls&fp=firefox&sni=hajlab.ucdavis.edu#[🏁]t.me/ConfigsHub
 vless://f8275dfe-4fd7-46b2-8d6c-de1891afb443@1619.postsafir.ir:1619?flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=wwww.refersion.com&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=3a622700e73c6642#[🏁]t.me/ConfigsHub
 vless://f8275dfe-4fd7-46b2-8d6c-de1891afb443@167.82.106.228:443?type=ws&host=Osiris-shup.com&path=de?ed%3D1048&security=tls&fp=chrome&sni=pscresearch.faculty.ucdavis.edu#[🏁]t.me/ConfigsHub
+trojan://telegram-id-directvpn@34.240.61.76:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://578ade22-1e58-4c37-ce01-bfad51a72c62@WwW.SpEEdTesT.NeT:8443?mode=multi&security=tls&encryption=none&alpn=h2,http/1.1&authority=&fp=chrome&type=grpc&serviceName=&sni=13l1.diginoshops10.ir#[🏁]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.179.223.45:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
+trojan://telegram-id-privatevpns@13.36.100.214:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S106)🇨🇵t.me/PrivateVPNs
