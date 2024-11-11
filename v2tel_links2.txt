@@ -3700,3 +3700,9 @@ vless://BLUe-Config@Pashmz.fastly80.hosting-ip.com:80?type=ws&path=%2FBLUEV2RAYN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsZ3JNemxsT3NUVXFISnA0N2swbE5x@141.98.234.93:20012#[🏁]t.me/ConfigsHub
 vless://1ae70a18-c028-4e83-b199-858b5b89c5fc@104.18.124.193:443?encryption=none&security=tls&alpn=http%2F1.1&fp=randomized&allowInsecure=1&type=ws&host=50355903046384688792200288344243.chrsjfklsdjfkljoierfdjklfjlkefeojsdlkfjeoifjsdlkfjweoifjlsdchrs.cyou&path=%2FV2LINE-TELEGRAM-CHANNEL-VLESS-WS-TLS#[🏁]t.me/ConfigsHub
 vless://afe219cc-5ca7-4aaf-b7be-0e0a5166a1ae@www.speedtest.net:8880?path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet?ed=2048&security=none&encryption=none&host=ftp.debian.org.www.digikala.com.www.speedtest.net.SnappFoodSuppOrt.ShoP.&type=ws#[🏁]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@16.171.222.116:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇸🇪t.me/PrivateVPNs
+trojan://telegram-id-directvpn@13.60.146.36:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@16.16.36.65:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇸🇪
+trojan://telegram-id-privatevpns@16.171.222.116:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
+trojan://telegram-id-directvpn@13.60.146.36:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@16.16.36.65:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🏁]t.me/ConfigsHub
