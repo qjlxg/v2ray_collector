@@ -675,3 +675,10 @@ vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@104.21.90.210:8443?path=%2FTelegram
 vless://ea93598b-a8d8-449a-a925-520c6e1626ee@162.251.82.187:443?path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560&security=tls&encryption=none&host=pardazeshvpn-tg105.pages.dev&type=ws&sni=pardazeshvpn-tg105.pages.dev#[🏁]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@54.154.185.168:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S120)🇨🇮t.me/PrivateVPNs
 trojan://telegram-id-directvpn@3.77.120.95:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://auto@172.64.35.202:443?security=tls&sni=trojanmz.pages.dev&type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560#[🏁]t.me/ConfigsHub
+vless://f5cfbaf4-b580-4743-97c8-07a450ae6b56@13dl.net:443?path=%2FVLESS?telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn-telegram-@ISVvpn&security=tls&alpn=h2&encryption=none&host=xob.dev&fp=chrome&type=ws&sni=13dl.net#[🏁]t.me/ConfigsHub
+vless://DIGIV2RAy@www.speedtest.net:2052?path=%2Ftm-Digiv2-__teldIGIv2__-DIGiv&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.farsr0id.ir.&type=ws#[🏁]t.me/ConfigsHub
+trojan://auto@104.20.21.166:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#[🏁]t.me/ConfigsHub
+vless://9ddae9d7-a9db-4e33-cb4d-356114b5bcd7@65.21.186.167:14534?security=none&type=tcp#[🏁]t.me/ConfigsHub
+trojan://auto@104.20.19.25:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws&host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F#[🏁]t.me/ConfigsHub
+vless://690d3ad4-fd5b-4a46-b6a6-693852ddf704@104.17.147.22:8880?security=none&type=ws&host=ftp.debian.org.www.digikala.com.www.speedtest.net.SnappFoodSuppOrt.ShoP.#[🏁]t.me/ConfigsHub
