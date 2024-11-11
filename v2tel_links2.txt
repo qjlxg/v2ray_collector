@@ -702,3 +702,5 @@ vless://42652d37-db25-4166-a5ab-e39b6f977e45@hajlab.ucdavis.edu:443?security=tls
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.171:8080#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig.drroyazare.ir:443#[🏁]t.me/ConfigsHub
 vmess://eyJhZGQiOiIxODguMTE0Ljk2LjIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im9iZGlpLmNmZCIsImlkIjoiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt3cyIsInBvcnQiOiI0NDMiLCJwcyI6Ilvwn4+BXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiJvYmRpaS5jZmQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@23.227.38.208:2053?path=V2RAYNPLUS#[🏁]t.me/ConfigsHub
+vless://0fdc0235-0055-4203-a66f-f29e7e663d10@104.21.83.62:2096?path=V2RAYNPLUS#[🏁]t.me/ConfigsHub
