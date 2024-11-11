@@ -734,3 +734,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMTNTN2RvWGFyMEE@205.134.180.137:443#[🏁]t
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@23.227.38.208:2053?path=%2Ff5pvJ1vR6QZ0WX9v%2FMTI5LjE1OS4yNDEuMTcy&security=tls&encryption=none&alpn=http/1.1&host=Bpb-v.PAges.deV&type=ws&sni=bPB-V.pageS.dEV#[🏁]t.me/ConfigsHub
 ss://YWVzLTI1Ni1jZmI6Y3A4cFJTVUF5TGhUZlZXSA@80.92.204.106:9064#[🏁]t.me/ConfigsHub
 ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@69.50.93.86:6679#[🏁]t.me/ConfigsHub
+vless://9d62bd6b-b3b2-42f8-cda8-603d1dd24c99@mci.phon2.com:8443?type=httpupgrade&path=%2F%40shopcar%3Fed%3D2048&host=mirzayadakc.tik2phone.ir&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1&sni=mirzayadakc.tik2phone.ir#[🏁]t.me/ConfigsHub
