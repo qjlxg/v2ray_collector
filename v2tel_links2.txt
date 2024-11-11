@@ -3788,3 +3788,4 @@ trojan://auto@104.20.17.1:443?path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F&secur
 vless://578ade22-1e58-4c37-ce01-bfad51a72c62@185.146.173.63:8443?encryption=none&security=tls&sni=1i3.diginoshops10.ir&alpn=h2%2Chttp%2F1.1&fp=chrome&type=grpc#[🏁]t.me/ConfigsHub
 vless://a1161d96-6353-475e-a4ff-92948b4590c7@video.myquiz.org:80?encryption=none&security=none&type=httpupgrade&host=oipm.org&path=%2F---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net#[🏁]t.me/ConfigsHub
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.94.31.75:1001?encryption=none&security=tls&sni=vless.ifx.us.kg&type=ws&host=vless.ifx.us.kg&path=%2F%3Fed%3D2560fp%3Dchrome#[🏁]t.me/ConfigsHub
+vless://da636f9c-d176-4d65-a87b-825a45837b90@81.12.35.61:1003?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#[🏁]t.me/ConfigsHub
