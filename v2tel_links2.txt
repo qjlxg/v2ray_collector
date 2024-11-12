@@ -897,3 +897,5 @@ vless://e21a5c1f-3572-4e39-9b04-d5d6a2e3cd9a@104.17.234.128:443?encryption=none&
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@usa.visa.com:2053/?type=ws&encryption=none&host=wd.vovo.pp.ua&path=%2F%3Fed%3D2560&security=tls&sni=wd.vovo.pp.ua&allowInsecure=1&fp=random&packetEncoding=xudp#[🏁]t.me/ConfigsHub
 vless://2f1f7fbf-f37d-4275-c014-298a83f4e5a8@104.17.147.22:80?encryption=none&security=none&type=httpupgrade&host=4h1.diginoshops10.ir&path=%2F#[🏁]t.me/ConfigsHub
 trojan://auto@172.64.35.209:443?security=tls&sni=trojanmz.pages.dev&type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560#[🏁]t.me/ConfigsHub
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@usa.visa.com:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=wd.vovo.pp.ua&fp=random&type=ws&sni=wd.vovo.pp.ua#[🏁]t.me/ConfigsHub
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@www.wto.org:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=wd.vovo.pp.ua&fp=random&type=ws&sni=wd.vovo.pp.ua#[🏁]t.me/ConfigsHub
