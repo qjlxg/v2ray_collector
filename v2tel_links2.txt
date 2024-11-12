@@ -809,3 +809,4 @@ trojan://NISHIKUITAN222@190.93.247.234:443?security=tls&sni=im.ylks.xyz&type=ws&
 trojan://telegram-id-privatevpns@51.21.0.171:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S101)🇸🇪t.me/PrivateVPNs
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@3.28.96.23:443#[🏁]t.me/ConfigsHub
 vless://ea93598b-a8d8-449a-a925-520c6e1626ee@162.251.82.187:443?encryption=none&security=tls&sni=pardazeshvpn-tg105.pages.dev&type=ws&host=pardazeshvpn-tg105.pages.dev&path=%2FTelegram-%40V2ray_Alpha%2F%3Fed%3D2560#[🏁]t.me/ConfigsHub
+trojan://bpb-trojan@172.66.44.203:443?path=%2FtrSo3btsDgOHHUM6Nb&security=tls&host=403b3611-99bc-43b7-88d7-26ed5d0825a9-3.pages.dev&type=ws&sni=403b3611-99bC-43b7-88D7-26ED5D0825A9-3.pagES.DEv#[🏁]t.me/ConfigsHub
