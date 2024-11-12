@@ -1168,3 +1168,4 @@ vless://7060e85c-bc94-44b9-9e72-2be423a58342@172.67.181.179:443?security=tls&sni
 trojan://auto@162.159.44.202:443?allowInsecure=0&sni=trojanmz.pages.dev&ws=1&wspath=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560#[🏁]t.me/ConfigsHub
 trojan://64f33df2-4f9d-4cf3-bb69-b82b08cf149a@ent1.imyourdaddy.top:21005?allowInsecure=0&sni=alibabashop.com#[🏁]t.me/ConfigsHub
 vless://8e56106c-7748-4b9d-b082-b0282810ccd8@172.232.148.175:11319?security=none&type=splithttp&path=%2FMrConfig-MrConfig-MrConfig-MrConfig-MrConfig#[🏁]t.me/ConfigsHub
+vless://ChanneI-👉V2ray1-NG👈@live.wkrq.com:443?path=%2F&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=THEVVVVVVVVVVVVVVVVVGRVVVV.COM&fp=chrome&type=ws&sni=live.wkrq.com#[🏁]t.me/ConfigsHub
