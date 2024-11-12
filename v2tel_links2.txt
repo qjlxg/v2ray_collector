@@ -993,3 +993,9 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.157.254.218:22222?path=/telegram
 vless://925b31c8-73d3-44d4-e087-af7b7ff7e490@185.146.173.63:8080?path=%2FFox%3Fed%3D2048&security=none&encryption=none&host=1v3.diginoshops10.ir&type=ws#[🏁]t.me/ConfigsHub
 vless://2df56fd0-d1b7-4793-b877-acd356d960f7@172.67.204.84:443?encryption=none&security=tls&sni=pages.dev&type=ws&host=download-93w.pages.dev&path=%2F%3Fed%3D8080#[🏁]t.me/ConfigsHub
 vless://262ddcb2-e051-466b-8d1c-d70cfc2a10f1@www.speedtest.net:2052?encryption=none&security=none&type=httpupgrade&host=free.dllmoviprime.com.tr&path=%2F#[🏁]t.me/ConfigsHub
+trojan://telegram-id-directvpn@3.131.129.59:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vmess://eyJhZGQiOiI0Ny43NC44LjIwMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5ZjU2M2JjNy0wNDgxLTQxZDItZjhmZC1hNDczNmRlZDliYzAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjIzNDY4IiwicHMiOiJb8J+PgV10Lm1lL0NvbmZpZ3NIdWIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vless://8e56106c-7748-4b9d-b082-b0282810ccd8@V3.hajalii.com:11319?path=%2FMrConfig-MrConfig-MrConfig-MrConfig-MrConfig&security=none&encryption=none&type=splithttp#[🏁]t.me/ConfigsHub
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@172.66.46.252:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=94391E80.uVpn-Org.paGes.Dev&fp=chrome&type=ws&sni=94391e80.uvPN-OrG.PAGes.Dev#[🏁]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.222.141.232:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇦
+trojan://telegram-id-privatevpns@3.65.76.220:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S114)🇩🇪t.me/PrivateVPNs
