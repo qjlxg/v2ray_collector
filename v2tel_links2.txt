@@ -1065,3 +1065,4 @@ trojan://telegram-id-directvpn@16.170.18.233:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-privatevpns@35.176.129.134:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.132.241.138:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
 vless://47db5676-3e2b-44fd-bd14-9134da8db30d@104.16.38.36:443?encryption=none&security=tls&sni=yelfuif8fbrb3j3an.thelastronin.cloudns.org&alpn=http%2F1.1&fp=random&type=ws&host=yelan.thelastronin.cloudns.org&path=%2FVLESS%2Fse-full.privateip.net#[🏁]t.me/ConfigsHub
+vless://4462d715-f03b-4cc5-9db9-92747b1fe696@1f.startrich.site:2086?type=ws&security=none&path=/&host=#[🏁]t.me/ConfigsHub
