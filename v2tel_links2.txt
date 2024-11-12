@@ -899,3 +899,12 @@ vless://2f1f7fbf-f37d-4275-c014-298a83f4e5a8@104.17.147.22:80?encryption=none&se
 trojan://auto@172.64.35.209:443?security=tls&sni=trojanmz.pages.dev&type=ws&host=trojanmz.pages.dev&path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560#[🏁]t.me/ConfigsHub
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@usa.visa.com:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=wd.vovo.pp.ua&fp=random&type=ws&sni=wd.vovo.pp.ua#[🏁]t.me/ConfigsHub
 vless://d342d11e-d424-4583-b36e-524ab1f0afa4@www.wto.org:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=wd.vovo.pp.ua&fp=random&type=ws&sni=wd.vovo.pp.ua#[🏁]t.me/ConfigsHub
+trojan://telegram-id-directvpn@18.132.75.38:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@62.60.239.60:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=wd.vovo.pp.ua&fp=random&type=ws&sni=wd.vovo.pp.ua#[🏁]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.89.212:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#[🏁]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@13.38.223.127:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S105)🇨🇵t.me/PrivateVPNs
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@visa.cn:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=wd.vovo.pp.ua&fp=random&type=ws&sni=wd.vovo.pp.ua#[🏁]t.me/ConfigsHub
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.89.212:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇫🇷
+trojan://telegram-id-privatevpns@13.38.223.127:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
+trojan://telegram-id-directvpn@18.132.75.38:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
+vless://2543edd8-0731-4fe5-ad9b-fd156407dd08@ir.alfabarium.lol:2054?type=grpc&serviceName=test&authority=zula.ir&mode=multi&security=reality&pbk=5sqkwKAFZW0KJs9lQiIZlNhar8wdk3Bc3fwk_4KPCUY&fp=chrome&sni=zula.ir&sid=1623d596&spx=%2F#[🏁]t.me/ConfigsHub
