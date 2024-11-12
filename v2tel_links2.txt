@@ -916,3 +916,7 @@ vless://16747acc-95c8-44ba-9b66-3d8a0c035347@147.45.51.16:2096?mode=gun&security
 vless://9cbe7791-7d04-5d71-89c9-92d4cff083cc@free.fastly80.hosting-ip.com:80?path=%2Fvless&security=none&encryption=none&host=mortezatv665656.ir&type=ws#[🏁]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@15.237.203.160:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S106)🇨🇵t.me/PrivateVPNs
 trojan://telegram-id-directvpn@63.34.115.22:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://5d9b2797-1ace-435b-be36-76722f13d239@199.232.8.48:443?path=%2F&security=tls&encryption=none&host=ELeNa-JoinBede-ELiV2ray.ir&fp=edge&type=ws&sni=ELENa-JOinBede-ELiV2Ray.ir#[🏁]t.me/ConfigsHub
+vless://f8275dfe-4fd7-46b2-8d6c-de1891afb443@1617.postsafir.ir:1617?security=reality&encryption=none&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=wwww.refersion.com&sid=3a622700e73c6642#[🏁]t.me/ConfigsHub
+trojan://auto@104.26.12.54:443?path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F&security=tls&host=b96ef9ae.trojanfree-76s.pages.dev&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev#[🏁]t.me/ConfigsHub
+vless://22c3edb8-d637-11ee-aaa8-00505603e70d@104.26.10.137:443?path=%2Fwebsocket&security=tls&encryption=none&host=st-fr-1.brocdn.com&type=ws&sni=st-fr-1.brocdn.com#[🏁]t.me/ConfigsHub
