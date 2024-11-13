@@ -1353,3 +1353,5 @@ vless://8dd62739-6098-4945-a52b-decffc30e186@asad.msivpn.online:17285?type=http&
 vless://2f1f7fbf-f37d-4275-c014-298a83f4e5a8@185.146.173.63:80?type=httpupgrade&host=1v4.diginoshops10.ir&path=%2F#[🏁]t.me/ConfigsHub
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.43.150.153:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#[🏁]t.me/ConfigsHub
 vless://694bc934-818f-4040-a30d-5642dec7495f@104.17.234.128:443?security=tls&sni=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de&type=ws&host=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de&path=/Telegram,VPNCUSTOMIZE%3Fed%3D8080&fp=randomized&alpn=h2,http/1.1#[🏁]t.me/ConfigsHub
+trojan://telegram-id-privatevpns@35.176.36.231:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S108)🇬🇧t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@35.176.36.231:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
