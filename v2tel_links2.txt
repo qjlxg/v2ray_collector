@@ -1355,3 +1355,4 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.43.150.153:22222?security=tls&sn
 vless://694bc934-818f-4040-a30d-5642dec7495f@104.17.234.128:443?security=tls&sni=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de&type=ws&host=join.VPNCUSTOMIZE.www.speedtest.net.ovh.Powerfullserver.de&path=/Telegram,VPNCUSTOMIZE%3Fed%3D8080&fp=randomized&alpn=h2,http/1.1#[🏁]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@35.176.36.231:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S108)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-privatevpns@35.176.36.231:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206R3NQRFZGS2RwSkZXOFdaaWQ0a200NjBjMVdNcXY3N0lZeDBmVk9IdmNGTT06UW1mK2RNSmRZeDhBWlVoQzRsMG9BTGZaYjJrQ0RzUmFEekFzLzJHSFI3cz0%3D@V3.hajalii.com:33172#[🏁]t.me/ConfigsHub
