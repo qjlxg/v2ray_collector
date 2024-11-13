@@ -1249,3 +1249,14 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.127.160.4:22222?path=/telegram-ch
 trojan://telegram-id-directvpn@13.36.218.30:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.127.160.4:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
 trojan://telegram-id-directvpn@13.36.218.30:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
+vless://edeca314-5a2c-5936-a14e-f9b103103883@172.67.171.49:80?path=%2Fvless&security=none&encryption=none&host=Fr2.vless.site.&type=ws#[🏁]t.me/ConfigsHub
+vless://fe945275-51a2-5c3c-8669-2c112ed35cec@185.146.173.24:80?path=%2Fvless&security=none&encryption=none&host=Nl1.vless.site.&type=ws#[🏁]t.me/ConfigsHub
+vless://edeca314-5a2c-5936-a14e-f9b103103883@172.67.171.65:443?path=%2Fvless&security=tls&encryption=none&host=fr2.vless.site&type=ws&sni=fr2.vless.site#[🏁]t.me/ConfigsHub
+vless://TELEGRAM-NUFiLTER@151.101.2.216:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Berim3arddekar.net&type=ws#[🏁]t.me/ConfigsHub
+vless://41bc353e-bda3-5e7f-a755-fbb5d98b1dce@185.146.173.94:80?path=%2Fvless&security=none&encryption=none&host=De2.vless.site.&type=ws#[🏁]t.me/ConfigsHub
+vless://41bc353e-bda3-5e7f-a755-fbb5d98b1dce@172.67.171.49:443?path=%2Fvless&security=tls&encryption=none&host=de2.vless.site&type=ws&sni=de2.vless.site#[🏁]t.me/ConfigsHub
+trojan://auto@104.18.12.229:2053?path=%2F&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#[🏁]t.me/ConfigsHub
+vless://51741fc6-b3f4-5da8-9d46-314062a620a5@185.146.173.45:443?path=%2Fvless&security=tls&encryption=none&host=fr1.vless.site&type=ws&sni=fr1.vless.site#[🏁]t.me/ConfigsHub
+vless://fe945275-51a2-5c3c-8669-2c112ed35cec@172.67.171.93:443?path=%2Fvless&security=tls&encryption=none&host=nl1.vless.site&type=ws&sni=nl1.vless.site#[🏁]t.me/ConfigsHub
+vless://2d5525e1-1aac-54ca-9e96-7fb552b0e6b9@190.93.247.155:80?path=%2Fvless&security=none&encryption=none&host=Pt1.vless.site.&type=ws#[🏁]t.me/ConfigsHub
+vless://51741fc6-b3f4-5da8-9d46-314062a620a5@185.146.173.99:80?path=%2Fvless&security=none&encryption=none&host=Fr1.vless.site.&type=ws#[🏁]t.me/ConfigsHub
