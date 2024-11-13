@@ -1227,3 +1227,4 @@ trojan://telegram-id-privatevpns@16.16.237.47:22222?security=tls&alpn=http/1.1&h
 vless://0d836bdb-adbc-4863-8c56-dc662e7f6919@104.18.93.27:443?path=%2FTELEGRAM-MARAMBASHI_MARAMBASHI%2F%3Fed%3D2560&security=tls&encryption=none&host=mahdiv2.pages.dev&type=ws&sni=mahdiv2.pages.dev#[🏁]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@16.16.237.47:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
 trojan://telegram-id-directvpn@16.16.54.142:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
+vmess://eyJhZGQiOiIyMDkuMzguMTc5LjE4NSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoic3BlZWR0ZXN0Lm5ldCIsImlkIjoiMGRlZWYwYmQtOTFmOS00NjMzLTkxMmQtMzI5ZDkyOGM3MDk0IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMTMzNzgiLCJwcyI6Ilvwn4+BXXQubWUvQ29uZmlnc0h1YiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
