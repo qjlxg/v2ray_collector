@@ -1627,3 +1627,13 @@ vless://48198295-b7ba-4b5c-8d85-085d55a6c869@141.101.123.33:443?security=tls&sni
 vless://788ac32a-5c24-413c-b1fe-20560f22c3c9@3.77.104.18:25610?type=tcp&security=none#[🏁]t.me/ConfigsHub
 vless://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.140:443?security=tls&sni=ap.ylks.xyz&type=ws&host=ap.ylks.xyz&path=%2Fblue#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 trojan://telegram-id-privatevpns@3.126.237.205:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
+vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@206.238.236.171:80?security=none&type=ws&host=late-tooth.granzinhannah.workers.dev&path=%2F%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKY0Nzblg1ZktBcm9OZ3htV1ZkOVRO@162.221.207.62:443#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.20.17.65:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&fp=randomized#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@142.202.49.119:6379#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.41.211.224:443?security=tls&sni=lm.kpcloud.eu.org&type=ws&host=lm.kpcloud.eu.org&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@190.93.245.186:443?security=tls&sni=lm.kpcloud.eu.org&type=ws&host=lm.kpcloud.eu.org&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇷Costa Rica
+vless://016c7f31-29f7-4b40-a64e-3b63f64ac854@190.93.247.56:8080?security=&type=ws&path=/telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers,telegram-@LegenderY_Servers?ed%3D2560&host=legendaryking.ir.www.speedtest.net.www.zula.ir.cloudflare.com.mozdozari.bUzz.&encryption=none#[🏁]t.me/ConfigsHub
+vless://2928d83a-ca75-4d52-b437-fa78c7601378@104.20.18.60:443?security=tls&sni=freedom-1rj.pages.dev&type=ws&host=freedom-1rj.pages.dev&path=%2Ffreedom-1rj.pages.dev%2F%3Fed%3D2560&fp=randomized#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.153.2:8443?security=tls&sni=wd.vovo.pp.ua&type=ws&host=wd.vovo.pp.ua&path=%2F%3Fed%3D2560&fp=random&allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
