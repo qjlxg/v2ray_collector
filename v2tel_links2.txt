@@ -2890,3 +2890,6 @@ vless://48198295-b7ba-4b5c-8d85-085d55a6c869@162.159.249.246:443?security=tls&sn
 vless://d50c705a-6e3f-4d41-8f8e-81c1676abed0@151.101.192.155:80?security=none&type=ws&host=Siperspdservicefree.com&path=%2FChannel%2CSPDNET%2CSPDNET%3Fed%3D1024#[🏁]t.me/ConfigsHub
 vless://1765be0d-dc75-4a54-e95c-7739ef465ab2@185.137.27.254:443?security=tls&sni=office1003.avaoffice.cloud&type=ws&path=%2Foffc3#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.251.31.36:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
+vless://f0d584bc-342f-4443-ba24-79e4d0e504b1@206.238.236.213:80?path=%2FTelegram%40NETMelliAnti%3Fed%3D2560&security=none&encryption=none&host=late-tooth.granzinhannah.workers.dev&type=ws#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://c31d6b4e-6105-4197-c94d-c45bce6c23a2@v12.net2eset.com:52418?path=%2F&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+trojan://dns68@43.198.148.59:8099?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&host=trojan.putata.us.kg&fp=randomized&type=ws&sni=trojan.putata.us.kg#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
