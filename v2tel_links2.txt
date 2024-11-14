@@ -2308,3 +2308,13 @@ trojan://auto@162.159.128.233:8443?path=%2FTelegram-proxy_mtm%2F%3Fed%3D2048&sec
 trojan://telegram-id-privatevpns@13.50.210.255:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🏁]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@13.50.210.255:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇸🇪t.me/PrivateVPNs
 vless://f8275dfe-4fd7-46b2-8d6c-de1891afb443@185.121.235.210:1624?security=reality&type=tcp&headerType=&flow=xtls-rprx-vision&path=&host=&sni=wwww.refersion.com&fp=chrome&pbk=uGYj7gkQdNaabDVQZdbHeSVizGPrzj8YD5jdYm7stG0&sid=3a622700e73c6642#[🏁]t.me/ConfigsHub
+vless://TELEGRAM-NUFiLTER@151.101.3.8:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Berim3arddekar.net&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://TELEGRAM-NUFiLTER@NUFiLTER.fastly80.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=Dadachibodoberim.net&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://auto@172.67.75.208:443?path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560&security=tls&host=trojanmz.pages.dev&type=ws&sni=trojanmz.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206R3NQRFZGS2RwSkZXOFdaaWQ0a200NjBjMVdNcXY3N0lZeDBmVk9IdmNGTT06UW1mK2RNSmRZeDhBWlVoQzRsMG9BTGZaYjJrQ0RzUmFEekFzLzJHSFI3cz0%3D@V3.hajalii.com:33172#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
+trojan://auto@172.67.75.208:443?path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560&security=tls&host=trojanmz.pages.dev&type=ws&sni=trojanmz.pages.dev#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@69.50.92.99:2375#[🏁]t.me/ConfigsHub
+vless://5b289fea-1e8c-4193-b29f-987f3b31687a@104.19.173.68:2096?security=tls&sni=mcc.rayanfmusic.IR.&type=ws&host=mcc.rayanfmusic.ir&path=%2Ftelegram-IRov2rayN%2Ctelegram-iroazadi%2CIRov2rayN-iroazadi%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-IRov2rayN%2Ctelegram-IRov2rayN%2Ctelegram-IRov2rayN%2Ctelegram-IRov2rayN%2Ctelegram-IRov2rayN%2Ctelegram-IRov2rayN%3Fed%3D2096&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1#[🏁]t.me/ConfigsHub
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.166.88.198:4444#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@156.146.62.164:443#👉🆔 @v2ray_configs_pool📡🇨🇭Switzerland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWVE4SndFbGRZbjRLVDJnZlo2ZU5s@89.23.103.21:51584#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
