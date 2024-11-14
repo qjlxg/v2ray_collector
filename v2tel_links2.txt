@@ -2762,3 +2762,6 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.179.26.109:22222?path=/telegram-
 vless://d3a12e79-ef42-4268-b367-42eeb3494e60@104.21.233.139:443?path=%2FTelegram%40Persianelon%3Fed%3D2048&security=tls&encryption=none&host=Hagh.PaGes.DEv&type=ws&sni=Hagh.PaGes.DEv#[🏁]t.me/ConfigsHub
 vless://6285e567-0c25-4ce2-a2fa-80517c1345e1@sky.rethinkdns.com:2096?path=%2FTelegram%40Persianelon%3Fed%3D2048&security=tls&encryption=none&host=1223-9ux.pages.dev&fp=randomized&type=ws&sni=1223-9ux.pages.dev#[🏁]t.me/ConfigsHub
 vless://5d29638e-3073-4eaf-9a42-fc2adba14207@104.18.189.218:443?path=%2FTELEGRAM-Persianelon%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=bia-daily-configs.pages.dev&fp=randomized&type=ws&sni=Bia-dAIly-coNfIGS.pAgEs.deV#[🏁]t.me/ConfigsHub
+trojan://telegram-id-directvpn@13.50.132.95:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.177.132.22:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
+trojan://telegram-id-privatevpns@51.24.49.230:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S118)🇬🇧t.me/PrivateVPNs
