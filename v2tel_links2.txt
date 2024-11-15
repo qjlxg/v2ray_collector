@@ -3112,3 +3112,10 @@ vmess://eyJhZGQiOiIxNDcuNDUuNTEuMTYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiIiLCJp
 vless://7d2dfb7a-2ecc-4448-bcbe-245a2092fe85@162.159.129.60:443?path=%2FTelegram-Xv2ry2-8%3Fed%3D512&security=tls&encryption=none&host=1v-2wk.pages.dev&type=ws&sni=Pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 ss://YWVzLTEyOC1nY206ZmQ3MGQ1MDItZDIwNy00M2JjLWE2ZDgtMWY0NTM3MzdkYWFl@awev.911-gt2-rs.com:10541#[🏁]t.me/ConfigsHub
 vless://f4fffd3b-32ff-4d54-b232-0de299a7553b@109.61.42.127:8811?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=#[🏁]t.me/ConfigsHub
+trojan://telegram-id-directvpn@13.37.77.147:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
+vless://a8a09765-7681-47ba-9ea0-e0ae79d51088@104.21.90.210:8443?path=%2FTELEGRAM-persianelon%2F%3Fed%3D2560&security=tls&encryption=none&host=tnetplus-1wc.pages.dev&fp=randomized&type=ws&sni=tnetplus-1wc.pages.dev#[🏁]t.me/ConfigsHub
+vless://2f1f7fbf-f37d-4275-c014-298a83f4e5a8@WwW.SpEEdTesT.NeT:80?path=%2F&security=none&encryption=none&host=1i2.diginoshops1.ir&type=httpupgrade#[🏁]t.me/ConfigsHub
+trojan://telegram-id-directvpn@13.37.77.147:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.176.212.127:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
+vless://2f1f7fbf-f37d-4275-c014-298a83f4e5a8@WwW.SpEEdTesT.NeT:80?path=%2F&security=none&encryption=none&host=1i2.diginoshops1.ir&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://bba5ce00-09e4-4fce-8d26-35db5b4e38d4@172.66.47.33:443?path=%2FTELEGRAM-persianelon%2F%3Fed%3D2560&security=tls&encryption=none&host=cfpage-39t.pages.dev&fp=chrome&type=ws&sni=cfpage-39t.pages.dev#[🏁]t.me/ConfigsHub
