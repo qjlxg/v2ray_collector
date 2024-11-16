@@ -3808,3 +3808,7 @@ vmess://eyJ2IjogIjIiLCAiYWRkIjogIjIxNi4yMjEuMjE0LjUwIiwgInBvcnQiOiA0NDMsICJhaWQi
 trojan://auto@104.26.6.89:443?path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560&security=tls&host=trojanmz.pages.dev&type=ws&sni=trojanmz.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.166:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.188:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://telegram-id-ArV2ray@www.speedtest.net:8880?path=%2Ftelegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry&security=none&encryption=none&host=www.speedtest.net.C.4.bahrane.iR.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://578ade22-1e58-4c37-ce01-bfad51a72c62@185.135.9.109:8443?security=tls&sni=12l1.diginoshops3.ir&type=grpc#[🏁]t.me/ConfigsHub
+vless://93c9138e-ec4f-474e-855e-3cf8b2e160eb@151.101.194.133:443?security=tls&sni=mio.splashthat.com&type=ws&host=Berim3arazekar.net&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&fp=firefox&alpn=h2#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://578ade22-1e58-4c37-ce01-bfad51a72c62@185.135.9.73:8443?security=tls&sni=12l1.diginoshops3.ir&type=grpc#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
