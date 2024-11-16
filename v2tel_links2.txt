@@ -3910,3 +3910,5 @@ trojan://telegram-id-directvpn@13.53.240.142:22222?security=tls&alpn=http/1.1&he
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.166:8080#[🏁]t.me/ConfigsHub
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.154:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://- KING OF SPEED -@185.146.173.37:2083?path=@KINGOFV2RAY,@KINGOFV2RAY,@KINGOFV2RAY,@KINGOFV2RAY,@KINGOFV2RAY,@KINGOFV2RAY&security=tls&encryption=none&host=chykz.poqpoq.shop&fp=chrome&type=ws&sni=chykz.poqpoq.shop#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@16.171.97.82:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+vless://48198295-b7ba-4b5c-8d85-085d55a6c869@34.175.202.195:443?security=tls&sni=aw.ylks.xyz&type=ws&host=aw.ylks.xyz&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇪🇸Spain
