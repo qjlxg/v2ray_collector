@@ -4378,3 +4378,11 @@ vless://ffd32c63-3151-4abf-8e4d-0042cc6adf88@104.18.165.38:8443?path=%2FTelegram
 vless://9de97a22-c894-4ee9-8f32-92b046bcb717@hajlab.ucdavis.edu:80?security=none&type=ws&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v03.TzZLiMitTNeW.NeT#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://9de97a22-c894-4ee9-8f32-92b046bcb717@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v08.TzZLiMitTNeW.NeT#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://9de97a22-c894-4ee9-8f32-92b046bcb717@hajlab.ucdavis.edu:443?security=tls&encryption=none&type=ws&fp=chrome&sni=hajlab.ucdavis.edu&headerType=&path=&host=wWw.SpEeDtEsT.NeT.ZuLa.aIr.IkCoSaLeS.iR.D662599.v01.TzZLiMitTNeW.NeT#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://SVNTEAM@SvnTeam.fastly80-2.hosting-ip.com:80/?type=ws&path=%2FSvnTeam-Channel%3Fed%3D80&host=SvnTeam.Telegram.1.Ru&security=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://SVNTEAM@SvnTeam.fastly80-2.hosting-ip.com:80/?type=ws&path=%2FSvnTeam-Channel%3Fed%3D80&host=SvnTeam.Telegram.2.Ru&security=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://SVNTEAM@SvnTeam.fastly80-2.hosting-ip.com:80/?type=ws&path=%2FSvnTeam-Channel%3Fed%3D80&host=SvnTeam.Telegram.2.Ru&security=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://SVNTEAM@www.speedtest.net:8880/?type=ws&path=%2FSvnTeam-Channel-Telegram%3Fed%3D8880&host=Channel-One.GiSvn.iR&security=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://SVNTEAM@www.speedtest.net:8080/?type=httpupgrade&path=%2FSvnTeam-Channel-Telegram%3Fed%3D8080&host=Channel-Two.GiSvn.iR&security=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://SVNTEAM@SvnTeam.fastly80-2.hosting-ip.com:80/?type=ws&path=%2FSvnTeam-Channel%3Fed%3D80&host=SvnTeam.Telegram.1.Ru&security=none#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://SVNTEAM@www.speedtest.net:8080/?type=httpupgrade&path=%2FSvnTeam-Channel-Telegram%3Fed%3D8080&host=Channel-One.GiSvn.iR&security=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://SVNTEAM@www.speedtest.net:8880/?type=ws&path=%2FSvnTeam-Channel-Telegram%3Fed%3D8880&host=Channel-Two.GiSvn.iR&security=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
