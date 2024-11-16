@@ -4246,3 +4246,4 @@ trojan://telegram-id-privatevpns@52.56.243.101:22222?security=tls&alpn=http/1.1&
 vless://44ce1a7d-d5fc-11ee-aaa8-00505603e70d@104.26.10.137:443?encryption=none&security=tls&sni=st-pl-1.brocdn.com&fp=chrome&type=ws&host=st-pl-1.brocdn.com&path=%2Fwebsocket#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptRXg5d0Rqa0RVTGpJSVRrWFlCVmxh@international-isp.outline360.online:8243/#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.2:8080#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+vless://telegram-id-ArV2ray@www.speedtest.net:2052?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D2052&security=none&encryption=none&host=www.speedtest.net.5.Z.mehpow.iR.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
