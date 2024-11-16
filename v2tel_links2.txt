@@ -4244,3 +4244,5 @@ vless://38720105-063f-40f5-a5eb-f3198b9b617d@172.66.44.233:443?encryption=none&s
 trojan://telegram-id-directvpn@16.171.248.203:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-privatevpns@52.56.243.101:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S118)🇬🇧t.me/PrivateVPNs
 vless://44ce1a7d-d5fc-11ee-aaa8-00505603e70d@104.26.10.137:443?encryption=none&security=tls&sni=st-pl-1.brocdn.com&fp=chrome&type=ws&host=st-pl-1.brocdn.com&path=%2Fwebsocket#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptRXg5d0Rqa0RVTGpJSVRrWFlCVmxh@international-isp.outline360.online:8243/#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.2:8080#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
