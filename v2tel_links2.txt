@@ -3812,3 +3812,7 @@ vless://telegram-id-ArV2ray@www.speedtest.net:8880?path=%2Ftelegram-ArV2ry,teleg
 vless://578ade22-1e58-4c37-ce01-bfad51a72c62@185.135.9.109:8443?security=tls&sni=12l1.diginoshops3.ir&type=grpc#[🏁]t.me/ConfigsHub
 vless://93c9138e-ec4f-474e-855e-3cf8b2e160eb@151.101.194.133:443?security=tls&sni=mio.splashthat.com&type=ws&host=Berim3arazekar.net&path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&fp=firefox&alpn=h2#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://578ade22-1e58-4c37-ce01-bfad51a72c62@185.135.9.73:8443?security=tls&sni=12l1.diginoshops3.ir&type=grpc#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.157:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@beesyar.org:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.181:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.157:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
