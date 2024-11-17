@@ -4652,3 +4652,4 @@ vless://eadca33d-9d18-4d65-bc4e-f0e117575b6f@152.67.104.166:443/?type=tcp&encryp
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoUkc2SEt2RFlwM01meFBVZDRCQldm@37.221.126.186:54335#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
 trojan://auto@104.26.12.31:443?path=%2Ftrojanmz.pages.dev%2F%3Fed%3D2560&security=tls&host=trojanmz.pages.dev&type=ws&sni=trojanmz.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjamxOaERBWlFNdURINk1JOEYwRTZt@62.210.88.22:443#👉🆔 @v2ray_configs_pool📡🇫🇷France
+vless://660bbbb2-fbe3-4009-a2cf-fb0b13aeabab@sahanwickramasinghepaid.thelk.club:443?path=%2F&security=tls&encryption=none&type=ws&sni=add+your+sni#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
