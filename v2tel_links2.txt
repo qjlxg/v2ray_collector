@@ -4449,3 +4449,8 @@ vless://8d52cccb-9f9e-4373-f63d-27507eeae064@www.speedtest.net:80?path=/TELEGRAM
 trojan://dns68@trojan.putata.us.kg:443?security=tls&sni=trojan.putata.us.kg&fp=randomized&alpn=http/1.1&type=ws&path=/?ed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vmess://eyJhZGQiOiAiYy50YW1wYXkuaW5mbyIsICJ2IjogIjIiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMSIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJjLnRhbXBheS5pbmZvIiwgInBhdGgiOiAibGlua3Z3cyIsICJ0bHMiOiAidGxzIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2Q2FuYWRhIn0=
 trojan://auto@trojanfree-76s.pages.dev:443?security=tls&sni=trojanfree-76s.pages.dev&fp=chrome&type=ws&path=/#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.125.184.61:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
+trojan://telegram-id-privatevpns@13.51.38.45:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2V2pSYVVVSTNURWxMUlZaWE4wZ3pRUQ@58.63.250.61:15004#👉🆔 @v2ray_configs_pool📡🇨🇳China
+vless://de44b044-8f90-4e18-b742-16591667ff96@20.151.60.161:8443?security=tls&sni=edgetunnel-free.pages.dev&type=ws&host=edgetunnel-free.pages.dev&path=%2F%3Fed%3D2048&fp=randomized#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://telegram-id-directvpn@15.188.9.94:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
