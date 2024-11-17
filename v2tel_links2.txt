@@ -4552,3 +4552,5 @@ vmess://eyJhZGQiOiAiZXMucHVsYXUub3JnIiwgImFpZCI6ICIxIiwgImFscG4iOiAiIiwgImZwIjog
 trojan://telegram-id-privatevpns@51.24.40.106:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S108)🇬🇧t.me/PrivateVPNs
 trojan://telegram-id-directvpn@51.21.73.120:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
 vless://42bd35b1-630e-4eb0-9d61-7781db3382d7@188.245.186.245:5443/?type=grpc&encryption=none&flow=&serviceName=mgrpcm&sni=refersion.com&fp=chrome&security=reality&pbk=y3s1kJ6fXvxa_ROS1VwzHeWs0NPIJwsVJ89f5l6HmV4&sid=902736d426f64e34#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+trojan://telegram-id-directvpn@15.188.9.94:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇫🇷France
+vless://telegram-id-ArV2ray@151.101.194.133:443?encryption=none&security=tls&sni=mio.splashthat.com&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=cdiuw43.net&path=%2Ftelegram-ArV2ray#👉🆔 @v2ray_configs_pool📡🇺🇸United States
