@@ -4406,3 +4406,4 @@ ss://YWVzLTI1Ni1nY206WjRaUUI3TElLRVZXN0gzQQ@58.63.250.61:15004#👉🆔 @v2ray_c
 vless://c417fcd2-b6db-495d-b851-7b4506198d6e@172.66.47.199:443?path=&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=telegram-id-eliv2ray.pages.dev&fp=randomized&type=ws&sni=TElegram-Id-Eliv2RAY.pAGeS.DEv#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://c417fcd2-b6db-495d-b851-7b4506198d6e@172.66.44.57:443?path=&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=telegram-id-eliv2ray.pages.dev&fp=randomized&type=ws&sni=TelEgRaM-id-ELIv2RaY.Pages.DEV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 trojan://bpb-trojan@172.64.150.145:443?allowInsecure=1&sni=mindrOOm-5cz.pAgEs.dEV&ws=1&wspath=%2FtrC8BM8bTsAF0AnLYL#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVRGNqWVE2WjZBSVd4VmlacHF5T21P@46.246.98.155:44013#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
