@@ -4489,3 +4489,4 @@ trojan://telegram-id-privatevpns@63.176.7.250:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-directvpn@18.133.3.116:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-directvpn@18.133.3.116:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
 trojan://telegram-id-privatevpns@63.176.7.250:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇩🇪t.me/PrivateVPNs
+trojan://bpb-trojan@104.17.147.22:443?security=tls&type=ws&sni=10-bpb-wORkER-paNel.pAGEs.DeV&host=10-bpb-worker-panel.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
