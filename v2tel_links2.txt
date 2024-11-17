@@ -4407,3 +4407,8 @@ vless://c417fcd2-b6db-495d-b851-7b4506198d6e@172.66.47.199:443?path=&security=tl
 vless://c417fcd2-b6db-495d-b851-7b4506198d6e@172.66.44.57:443?path=&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=telegram-id-eliv2ray.pages.dev&fp=randomized&type=ws&sni=TelEgRaM-id-ELIv2RaY.Pages.DEV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 trojan://bpb-trojan@172.64.150.145:443?allowInsecure=1&sni=mindrOOm-5cz.pAgEs.dEV&ws=1&wspath=%2FtrC8BM8bTsAF0AnLYL#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVRGNqWVE2WjZBSVd4VmlacHF5T21P@46.246.98.155:44013#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+trojan://telegram-id-directvpn@54.197.226.160:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozTWdJaHF3cDRwak04U0t3aXhOa1la@193.124.22.253:33068#👉🆔 @v2ray_configs_pool📡🇱🇻Latvia
+vless://Parsashonam-107@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2Fws%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=Parsashonam0.com&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.113:7307#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://telegram-id-privatevpns@54.170.208.103:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
