@@ -4704,3 +4704,7 @@ vless://937d5baf-e495-4839-a36f-306c4e20df7f@video.myquiz.org:80?type=httpupgrad
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1YTBINjM5d1NsUXJLVzdZTTNMaHZm@89.185.84.185:12575#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.113:8882#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXWk1mNlJXOHdZQlowUVBES0ZYbjRu@62.210.88.22:443/?outline=1&prefix=%16%03%01%00%C2%A8%01%01#👉🆔 @v2ray_configs_pool📡🇫🇷France
+trojan://telegram-id-directvpn@51.20.156.141:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://telegram-id-ArV2ray@www.speedtest.net:8080?path=%2Ftelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%2Ctelegram-ArV2ry%3Fed%3D8080&security=none&encryption=none&host=www.speedtest.net.A.3.mehpow.iR.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://5bb8d9d7-7de7-4f10-9124-a9e18fe25a65@funnelytics.io:8443?security=tls&sni=joinbade.antimelichannel.ggff.net&fp=chrome&type=ws&path=/JoinBadeChannel@antimeli&host=joinbade.antimelichannel.ggff.net&encryption=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://telegram-id-privatevpns@16.171.91.8:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
