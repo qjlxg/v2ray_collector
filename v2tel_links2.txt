@@ -5217,3 +5217,10 @@ trojan://telegram-id-directvpn@63.33.102.87:22222?security=tls&sni=trojan.burger
 trojan://telegram-id-directvpn@18.132.84.186:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
 vless://83082070-6b71-4e48-937a-3e4bf304fe68@172.66.44.87:443?path=%2F&security=tls&encryption=none&host=channel-eliv2ray.pages.dev&fp=randomized&type=ws&sni=ChAnNeL-ELiV2rAY.pagES.dEv#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://f20f66d6-fb65-4d19-9b71-381426933445@ru.nimcllub-net26.site:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=ru.nimcllub-net26.site#👉🆔 @v2ray_configs_pool📡🇷🇺Russia
+vless://6c316928-500c-47e1-8851-efc44aa2c66d@65.21.186.167:23367?security=none&type=tcp&host=telewebion.com&headerType=http#👉🆔 @v2ray_configs_pool📡🇫🇮Finland
+ss://bm9uZTpjYmNhYWJhLWFiY2EtY2FhYi1hYmNkLWNhYWJjYmNjYmJhYQ==@127.0.0.1:8080#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+vless://accbaab-baac-bcaa-badc-aabacbcbabcc@127.0.0.1:8080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+vmess://eyJhZGQiOiAiMTI3LjAuMC4xIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImJhY2NhYmEtY2FhYi1jYWFiLWJhY2QtYWJiYmJjYWNhY2NhIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6IDEwODAsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiIiwgInRscyI6ICIiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNlXHVkZDM3XHUyMDBkXHUyNjQwXHVmZTBmXHVkODNlXHVkZDM3XHUyMDBkXHUyNjQyXHVmZTBmIn0=
+trojan://telegram-id-privatevpns@63.176.127.189:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://79fc4bf6-fd2d-4714-98d7-eadec83d7115@151.101.128.155:80?security=none&type=ws&host=spdnet.chanelspdnet.ir.&path=%2FChannel%2CSPDNET%2CSPDNET%3Fed%3D80#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://QwwHvrnN@36.151.192.239:17806?allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇨🇳China
