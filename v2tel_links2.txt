@@ -5226,3 +5226,5 @@ vless://79fc4bf6-fd2d-4714-98d7-eadec83d7115@151.101.128.155:80?security=none&ty
 trojan://QwwHvrnN@36.151.192.239:17806?allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇨🇳China
 vless://76780b88-84e9-464a-99bf-dbd6071eff23@ipcloudflaretamiz.fastly80-2.hosting-ip.com:80?path=%2F%3Fed%3D2048&security=none&Telegram#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://b8bc38e2-de34-4d61-8697-7559c96f5f47@sgoodd.ir.iphone-shopp.ir:5443?mode=gun&security=reality&Telegram#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+trojan://telegram-id-directvpn@15.157.149.94:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://telegram-id-privatevpns@18.202.153.239:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
