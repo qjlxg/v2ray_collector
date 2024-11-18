@@ -5118,3 +5118,9 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@104.18.39.232:2083?path=%2FTelegram
 vless://9bde6a09-a350-47e3-b826-815525108597@151.101.3.8:80?path=%2FTelegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray-Telegram-ipV2Ray%3Fed%3D2048&security=none&encryption=none&host=barkatc2.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://03a987de-7e12-4b38-acbc-e19c90e1cc85@104.16.14.99:443?path=%2FTelegram-%40proxy_mtm%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=ARCane-ROYAL.Pages.DEV&type=ws&sni=ARCane-ROYAL.Pages.DEV#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 trojan://telegram-id-privatevpns@18.169.46.53:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S117)🇬🇧t.me/PrivateVPNs
+trojan://telegram-id-directvpn@13.51.105.170:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://Parsashonam-110@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2Fws%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=Parsashonam0.com&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://dns68@199.68.156.68:443?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&host=trojan.putata.us.kg&fp=randomized&type=ws&sni=trojan.putata.us.kg#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://Parsashonam-110@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.10.251.97:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇬🇧
+trojan://telegram-id-privatevpns@18.171.200.129:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S118)🇬🇧t.me/PrivateVPNs
