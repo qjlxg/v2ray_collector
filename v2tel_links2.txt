@@ -5129,3 +5129,8 @@ vless://2928d83a-ca75-4d52-b437-fa78c7601378@162.159.44.154:443?path=%2FTELEGRAM
 vless://V2RAXX-@www.speedtest.net:8443?path=%2FTelegram%2CV2RAXX%3Fed%3D2480&security=tls&encryption=none&alpn=h3#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://V2RAXX-@www.speedtest.net:8443?path=%2FTelegram%2CV2RAXX%3Fed%3D2480&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=join-bede-V2RAXX-www-speedtest-net.amalfatm.ir&fp=chrome&type=ws&sni=join-bede-V2RAXX-www-speedtest-net.amalfatm.ir#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://V2RAXX-@funnelytics.io:8443?path=%2FTelegram%2CV2RAXX%3Fed%3D2480&security=tls&encryption=none&alpn=h3,h2,http/1.1&host=join-bede-V2RAXX-www-speedtest-net.amalfatm.ir&fp=chrome&type=ws&sni=join-bede-V2RAXX-www-speedtest-net.amalfatm.ir#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTEyOC1nY206WWMyQ3RySXo4TA%3D%3D@107.175.96.74:16899#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@69.50.95.191:5600#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@69.50.95.174:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://telegram-id-directvpn@51.21.116.87:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY%3D@69.50.95.191:5498#👉🆔 @v2ray_configs_pool📡🇺🇸United States
