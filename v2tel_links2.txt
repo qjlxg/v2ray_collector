@@ -5081,3 +5081,4 @@ vless://9cbdc595-1d8d-4443-af07-99149153d025@whatismyipaddress.com:443?path=%2Fa
 trojan://auto@104.20.21.99:443?host=b96ef9ae.trojanfree-76s.pages.dev&path=%2Fb96ef9ae.trojanfree-76s.pages.dev%2F&security=tls&sni=b96ef9ae.trojanfree-76s.pages.dev&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 trojan://telegram-id-directvpn@18.135.221.227:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
 vless://9cbdc595-1d8d-4443-af07-99149153d025@whatismyipaddress.com:443?path=%2Fabcdews&security=tls&encryption=none&host=ef86bce78d9f4063acd1.starsha-goodd.info&fp=chrome&type=ws&sni=ef86bce78d9f4063acd1.starsha-goodd.info#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@www.speedtest.net:80?path=%2FygOspaD3CyMmYSg8%2FMTQ4LjI1MS4xMTAuMTc2%3Fed%3D2560&security=none&encryption=none&host=cxrolvpn.cxrolvpn8767.workers.dev&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
