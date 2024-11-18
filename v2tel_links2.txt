@@ -4866,3 +4866,4 @@ trojan://auto@104.20.20.162:443?security=tls&sni=b96ef9ae.trojanfree-76s.pages.d
 trojan://f181b265-5fd4-456e-ad2d-c9b0446e0d51@45.146.232.171:27001?security=tls&sni=q08m.vgraxiw73s.hasyaf.cn&type=tcp#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@199.232.1.255:443?allowInsecure=1&sni=Sanjeshp.Ir&alpn=h2,http/1.1&type=ws&host=Sanjeshp.Ir&path=/H?ed=2560fp=randomized&security=tls#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://041f671a-63f5-4af1-a492-8cbff5797b8a@151.101.130.228:443?security=tls&sni=zmaoz.faculty.ucdavis.edu&type=ws&host=Falcunargo.net&alpn=http/1.1&allowInsecure=1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@140.248.152.40:443?allowInsecure=1&sni=Sanjeshp.Ir&alpn=h2#👉🆔 @v2ray_configs_pool📡🇺🇸United States
