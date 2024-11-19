@@ -5544,3 +5544,4 @@ vless://f42ad2b9-dd40-4ac6-8d2a-aa767f27ecf6@151.101.128.155:80?security=none#�
 vless://30ff51e3-37fb-4995-9209-1cb888ee81c1@95.38.210.142:35021?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
 vless://%63%31%35%62%33%62%39%31%2d%33%63%32%39%2d%34%36%33%64%2d%39%30%34%36%2d%33%31%65%30%36%35%33%33%61%34%32%66@151.101.66.228:443?Telegram=@V2RayTz#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 trojan://auto@104.20.18.121:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://telegram-id-directvpn@51.20.147.63:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
