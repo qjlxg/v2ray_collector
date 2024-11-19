@@ -5305,3 +5305,6 @@ vmess://eyJ2IjogIjIiLCAiYWRkIjogImRkZC56Y3IwNy51Uy5LRyIsICJwb3J0IjogIjQ0MyIsICJ0
 vless://ac058631-9f5d-4717-9558-3409d22271e9@www.speedtest.net:443?encryption=none&security=tls&sni=bIa-dAily-confIgs.paGeS.Dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=bia-daily-configs.pages.dev&path=%2FTELEGRAM-Daily_Configs%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 trojan://fuck@42.236.73.72:443?allowInsecure=0&sni=www.zitian.cn#👉🆔 @v2ray_configs_pool📡🇨🇳China
 vless://ac058631-9f5d-4717-9558-3409d22271e9@104.17.207.36:8443?encryption=none&security=tls&sni=bIa-DAIly-CoNFIGs.PaGes.DEv&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=bia-daily-configs.pages.dev&path=%2FTELEGRAM-Daily_Configs%3Fed%3D80#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://telegram-id-directvpn@13.50.177.186:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@142.202.48.43:2376#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://telegram-id-privatevpns@13.48.32.167:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S102)🇸🇪t.me/PrivateVPNs
