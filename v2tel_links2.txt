@@ -5545,3 +5545,12 @@ vless://30ff51e3-37fb-4995-9209-1cb888ee81c1@95.38.210.142:35021?security=none&e
 vless://%63%31%35%62%33%62%39%31%2d%33%63%32%39%2d%34%36%33%64%2d%39%30%34%36%2d%33%31%65%30%36%35%33%33%61%34%32%66@151.101.66.228:443?Telegram=@V2RayTz#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 trojan://auto@104.20.18.121:443?security=tls&type=ws&sni=b96ef9ae.trojanfree-76s.pages.dev&path=/b96ef9ae.trojanfree-76s.pages.dev/&host=b96ef9ae.trojanfree-76s.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 trojan://telegram-id-directvpn@51.20.147.63:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-privatevpns@108.128.141.24:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
+vless://2266e5c0-1971-49aa-a454-e10a46ea0ee2@151.101.3.8:80?path=%2FTelegram,VPNCUSTOMIZE%3Fed%3D2480&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=VPNCUSTOMIZE.channel-telegram.ir&fp=chrome&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRRQDE1Ny4xNzUuMzAuMjExOjQ0Mw==#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.75.178.63:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZ2dAWDBtNTE1QDE3Ni4xMjQuMTk5LjI1NTozMDI1Mg==#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+vless://2266e5c0-1971-49aa-a454-e10a46ea0ee2@151.101.3.8:80?path=%2FTelegram#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://2266e5c0-1971-49aa-a454-e10a46ea0ee2@151.101.3.8:80?path=%2FTelegram,VPNCUSTOMIZE%3Fed%3D2480&security=none&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none=Telegram:@ghalagyann-Telegram:@ghalagyann-Telegram:@ghalagyann-Telegram:@ghalagyann&host=VPNCUSTOMIZE.channel-telegram.ir&fp=chrome&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.75.178.63:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇮
+trojan://telegram-id-privatevpns@108.128.141.24:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S119)🇨🇮t.me/PrivateVPNs
