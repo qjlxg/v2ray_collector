@@ -6049,3 +6049,9 @@ vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.6:443?security=tls&sni=C
 vmess://eyJhZGQiOiAiNS4zNC4xNzYuMTExIiwgInYiOiAiMiIsICJwb3J0IjogNTc2MTQsICJpZCI6ICI0ZTU1Y2U0MC05ZjhlLTQxN2QtZjhhZS1hYTZhZjk3YTcwOTciLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGY4XHVkODNjXHVkZGVjU2luZ2Fwb3JlIn0=
 trojan://telegram-id-privatevpns@18.134.24.125:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
 vless://04b6ffea-7577-490a-bff2-bf63f6bbcaf8@www.speedtest.net:2052?path=%2F%3Fed%3D2048&security=none&encryption=none&host=sub-89ytdd0zy-rubika.ir.google.com.xn--cr8haaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.xn--qeiaa57238baaaaaaabaacaaaaaaaaaaaaaaaaaaaaa.apaspeedtest.netrat.com.eu.com.shw814.ir.xn--cr8haaaaaaaaaaaaaaaaa.xn--g28h.SoFtMeTo.Ir.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://telegram-id-privatevpns@52.59.77.71:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+trojan://eb0c0b71-20d5-43b3-8c44-3e63e3fdd1a6@yxkrvol.yuwenle.vip:3333?security=tls&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇫🇷France
+trojan://telegram-id-privatevpns@51.21.93.103:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+trojan://eb0c0b71-20d5-43b3-8c44-3e63e3fdd1a6@akjp.yuwenle.vip:3333?security=tls&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
+trojan://telegram-id-directvpn@3.64.107.115:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+trojan://telegram-id-privatevpns@52.59.168.13:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
