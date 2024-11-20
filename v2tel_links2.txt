@@ -6044,3 +6044,5 @@ trojan://cabacba-bcaa-baac-dcab-bccbbabcacaa@127.0.0.1:1080?security=tls&type=tc
 trojan://acbaacb-acba-cbaa-dabc-bababcccabac@127.0.0.1:8080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
 trojan://telegram-id-privatevpns@63.176.54.171:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1&type=tcp&headerType=none#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
 trojan://caabbac-acab-bcaa-dcba-bcbcacaacbab@127.0.0.1:1080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.78.79.96:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@188.114.97.6:443?security=tls&sni=CC45Ca71.bpb-woRKER-PAneL-3V6.Pages.deV&alpn=h2#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
