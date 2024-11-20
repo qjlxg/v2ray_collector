@@ -5844,3 +5844,4 @@ vless://tell--ZEDMODEON@151.101.38.133:443?path=%2F%40ZEDMODEON-ZEDMODEON%40ZEDM
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.97.38.87:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇦
 trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@customer-77-91-72-197.stark-industries.solutions:443?security=tls&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇭🇺Hungary
 trojan://telegram-id-privatevpns@18.197.234.12:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪t.me/PrivateVPNs
+trojan://telegram-id-directvpn@3.69.41.217:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
