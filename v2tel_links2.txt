@@ -6200,3 +6200,9 @@ vless://500fa635-f420-4148-ae10-5b857163d045@213.165.84.57:443/?type=ws&encrypti
 vless://500fa635-f420-4148-ae10-5b857163d045@85.235.145.125:2053/?type=ws&encryption=none&host=vl.kouok.us.kg&path=%2F%3Fed%3D2560&security=tls&sni=vl.kouok.us.kg&fp=random#👉🆔 @v2ray_configs_pool📡🇮🇹Italy
 vless://500fa635-f420-4148-ae10-5b857163d045@135.181.32.163:8443/?type=ws&encryption=none&host=vl.kouok.us.kg&path=%2F%3Fed%3D2560&security=tls&sni=vl.kouok.us.kg&fp=random#👉🆔 @v2ray_configs_pool📡🇫🇮Finland
 vless://500fa635-f420-4148-ae10-5b857163d045@104.19.103.190:2096/?type=ws&encryption=none&host=vl.kouok.us.kg&path=%2F%3Fed%3D2560&security=tls&sni=vl.kouok.us.kg&fp=random#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://telegram-id-directvpn@18.170.235.121:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+trojan://telegram-id-directvpn@18.170.235.121:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.238.181:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.181.238.181:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇫🇷
+trojan://telegram-id-privatevpns@18.157.170.82:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+trojan://telegram-id-privatevpns@18.157.170.82:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S104)🇩🇪t.me/PrivateVPNs
