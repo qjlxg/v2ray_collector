@@ -6420,3 +6420,15 @@ vless://e21b205e-fd61-4140-9112-e7570f62de63@www.speedtest.net:443?path=%2F%40%6
 trojan://telegram-id-directvpn@16.16.155.121:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
 vless://be375f30-0249-4d44-b77b-4dccc4892c09@hajlab.ucdavis.edu:443?path=%2F%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy----%40Shh_Proxy%3Fed%3D2048&security=tls&encryption=none&host=joinshhproxybedeeeee.ir&type=ws&sni=hajlab.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 trojan://telegram-id-directvpn@16.16.155.121:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://660bbbb2-fbe3-4009-a2cf-fb0b13aeabab@sahanwickramasinghepaid.thelk.club:443?path=%2F&security=tls&encryption=none&type=ws&sni=WhatsApp.net#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://660bbbb2-fbe3-4009-a2cf-fb0b13aeabab@sahanwickramasinghepaid.thelk.club:443?path=%2F&security=tls&encryption=none&type=ws&sni=aka.ms#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+ss://YWVzLTI1Ni1nY206aVVCMDkyM1JCQQ%3D%3D@154.3.8.151:30067#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@108.129.51.52:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇨🇮
+vless://660bbbb2-fbe3-4009-a2cf-fb0b13aeabab@sahanwickramasinghepaid.thelk.club:443?path=%2F&security=tls&encryption=none&type=ws&sni=www.pubgmobile.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://660bbbb2-fbe3-4009-a2cf-fb0b13aeabab@sahanwickramasinghepaid.thelk.club:443?path=%2F&security=tls&encryption=none&type=ws&sni=android.googleapis.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+trojan://telegram-id-privatevpns@52.19.13.128:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S119)🇨🇮t.me/PrivateVPNs
+vless://660bbbb2-fbe3-4009-a2cf-fb0b13aeabab@sahanwickramasinghepaid.thelk.club:443?path=%2F&security=tls&encryption=none&type=ws&sni=m.viber.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@108.129.51.52:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
+vless://660bbbb2-fbe3-4009-a2cf-fb0b13aeabab@sahanwickramasinghepaid.thelk.club:443?path=%2F&security=tls&encryption=none&type=ws&sni=m.zoom.us#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+trojan://telegram-id-privatevpns@52.19.13.128:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
+vless://660bbbb2-fbe3-4009-a2cf-fb0b13aeabab@sahanwickramasinghepaid.thelk.club:443?path=%2F&security=tls&encryption=none&type=ws&sni=google.com#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
