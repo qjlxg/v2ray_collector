@@ -2420,3 +2420,10 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@23.166.88.5:3389#👉🆔 @v2ray_config
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@23.157.40.103:6379#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@69.50.95.191:5600#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 trojan://bpb-trojan@141.101.113.119:443/?type=ws&host=fcspring.ggff.net&path=%2Ftr%3Fed&security=tls&sni=fcspring.ggff.net#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://0ff8c310-3191-4071-925e-1f7be8f1f94f@13.215.186.78:8009?sni=n2.sps465ad81.top#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+trojan://telegram-id-privatevpns@13.38.151.146:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇫🇷France
+vless://SVNTEAM@SvnTeam.fastly80-2.hosting-ip.com:80?path=%2FSvnTeam-SvnTeam-SvnTeam%3Fed%3D8880&security=none&encryption=none&host=SvnTeam.Svn10.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://telegram-id-directvpn@3.124.133.245:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://TELEGRAM-NUFiLTER@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=api.nhl3.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://2843e967-aa72-4424-997e-2dcafacaddec@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=api.nhl2.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://TELEGRAM-NUFiLTER@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=api.nhl3.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
