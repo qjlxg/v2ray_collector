@@ -2115,3 +2115,5 @@ trojan://telegram-id-directvpn@35.179.250.64:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-directvpn@35.179.250.64:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
 vless://ffd3906e-60c9-451e-8ed1-7114107e102c@104.18.12.229:8443/?type=ws&encryption=none&host=pardazeshvpn-tg70.pages.dev&path=%2F&security=tls&sni=pardazeshvpn-tg70.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://da95ed3b-91b3-4dbc-b74a-cee7745822c6@apple-carry-relay.cloudflare.com:8880/?type=ws&encryption=none&host=dahshjhewjqh32-18yiuadshjkdhas321-y8dayliudhsaljk321.vipvipmbl.ir.&path=%2Fwww.speedtest.net-www.speedtest.net-www.speedtest.net#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ%3D%3D@69.50.92.55:8000#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@212.102.53.198:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
