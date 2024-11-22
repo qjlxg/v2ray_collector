@@ -2087,3 +2087,6 @@ ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklkQDY5LjUwLjk1LjE3NDo1MDA0#👉🆔 @v2ra
 vless://- KING OF SPEED -@185.146.173.37:2083?path=@KINGOFV2RAY,@KINGOFV2RAY,@KINGOFV2RAY,@KINGOFV2RAY,@KINGOFV2RAY,@KINGOFV2RAY&security=tls&encryption=none&host=chykz.poqpoq.shop&fp=chrome&type=ws&sni=chykz.poqpoq.shop#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
 vless://34d83dcf-80ba-461a-b9c7-d057264bd854@v1.net2eset.com:32117?path=%2F&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
 vless://9cbdc595-1d8d-4443-af07-99149153d025@chat.openai.com:443?path=%2Fabcdews&security=tls&encryption=none&host=4982bd02215942cfa34d.gym-aij.info&fp=chrome&type=ws&sni=4982bd02215942cfa34d.gym-aij.info#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://telegram-id-directvpn@15.236.195.29:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.177.27.117:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇩🇪
+trojan://telegram-id-privatevpns@18.199.1.203:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇩🇪t.me/PrivateVPNs
