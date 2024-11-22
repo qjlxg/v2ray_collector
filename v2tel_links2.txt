@@ -2250,3 +2250,9 @@ ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.157.40.103:443#👉🆔 @v2ray_conf
 trojan://telegram-id-privatevpns@3.75.117.246:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S114)🇩🇪t.me/PrivateVPNs
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@142.202.49.122:8118#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 trojan://telegram-id-privatevpns@13.49.187.121:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NDhlNjBmOS1mYzYwLTRjMDctOTViMS0xMzZjY2JiZDUwNTE%3D@159.223.57.143:30443#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.181:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@40.172.83.49:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToySFpoTUZIemU0ZUdHUTRONDNERjdaN2hOdE1ZOWs5b25wbnY3M2VMQWh2U1dWOXoyVjdqYlR6dHV5a2lWNEhxN1ZNdUFWZG9UenJocGRNWlNqb3ZjamdIWUVuV2RDamg%3D@166.88.150.12:57073#👉🆔 @v2ray_configs_pool📡🇲🇩Moldova
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.192:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpidEYydUNCbjJDejExa0lB@admin.c2.havij.co:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
