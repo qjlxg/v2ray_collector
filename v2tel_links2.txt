@@ -2117,3 +2117,4 @@ vless://ffd3906e-60c9-451e-8ed1-7114107e102c@104.18.12.229:8443/?type=ws&encrypt
 vless://da95ed3b-91b3-4dbc-b74a-cee7745822c6@apple-carry-relay.cloudflare.com:8880/?type=ws&encryption=none&host=dahshjhewjqh32-18yiuadshjkdhas321-y8dayliudhsaljk321.vipvipmbl.ir.&path=%2Fwww.speedtest.net-www.speedtest.net-www.speedtest.net#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ%3D%3D@69.50.92.55:8000#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@212.102.53.198:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://89320cf7-10b6-43d2-bf4d-fb5cbb98aba7@panel.VIGIlantecOllecTIOn.shop:80?type=ws&host=TEL.%56%4d%45%53%53%4f%52%47.http.www.speedtest.net.fast.com.%76%6d%65%73%73%6f%72%67%67.ir&path=/%54%65%6c%65%67%72%61%6d:%40%76%6d%65%73%73%6f%72%67-%54%65%6c%65%67%72%61%6d:%40%76%6d%65%73%73%6f%72%67-%54%65%6c%65%67%72%61%6d:%40%76%6d%65%73%73%6f%72%67?ed%3D8880#👉🆔 @v2ray_configs_pool📡🇺🇸United States
