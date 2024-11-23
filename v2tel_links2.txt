@@ -2867,3 +2867,8 @@ vmess://eyJhZGQiOiAiNDYuMzguMTM3LjE2IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjog
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.93.10:9090#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://5e5ed4b8-f4d1-4d65-af54-b90dafd3f31b@185.146.173.58:8080?type=ws&host=lc81.lebasnoo.ir.&path=/servernett&security=none#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
 vless://86cb8be9-3e73-404e-b8c0-d3b0ee180c0a@185.146.173.58:8080?type=ws&host=lc80.lebasnoo.ir.&path=/servernett&security=none#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.202.68.249:443#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
+vmess://eyJhZGQiOiAiMTA0LjIxLjc0LjIzOSIsICJhaWQiOiAiMCIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJhZnJobXMwNy54Zml4ZWRmbG9hdC5jZmQiLCAiaWQiOiAiYTE2NTVmNTEtMWUyMC00YTkyLThhMTEtYjdjYTMwYTdhMzUzIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rd3MiLCAicG9ydCI6ICI0NDMiLCAic2N5IjogImF1dG8iLCAic25pIjogImFmcmhtczA3LnhmaXhlZGZsb2F0LmNmZCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInYiOiAiMiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNkNhbmFkYSJ9
+vless://13961dc9-0d97-4a40-ce84-c262a9ccdca4@34.217.226.207:80?security=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://13961dc9-0d97-4a40-ce84-c262a9ccdca4@54.188.171.233:80?security=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://8d433de7-5728-407a-9529-43933ca44646@Manager.ImageFlowAI.ir:2096?security=reality&encryption=none&pbk=YAmYWNKMauwmkR50BntCkIs6Oi0TOfQkEXG4_p-5oVE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=filimo.com#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
