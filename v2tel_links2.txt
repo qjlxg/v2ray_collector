@@ -2734,3 +2734,4 @@ trojan://telegram-id-directvpn@3.139.196.24:22222?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-privatevpns@35.181.76.236:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S115)🇨🇵t.me/PrivateVPNs
 vless://b551a105-2391-4182-8e5a-5e0d3323fc27@188.245.154.141:6543?encryption=none&security=reality&sni=www.speedtest.net&fp=chrome&pbk=W0KzAPz2e3FFi-yzHzDdeo4mH_ZmkGb97dny2fkHjjY&sid=ad52706b&type=tcp&headerType=none#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
 vless://0fdc0235-0055-4203-a66f-f29e7e663d10@104.21.83.62:2096?encryption=none&security=tls&sni=tnetplus3.pages.dev&fp=randomized&type=ws&host=tnetplus3.pages.dev&path=%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://759b4162-a20f-40d0-884d-f020ed05e60b@dl52.sulduzserver.top:32680/?type=tcp&path=%2F&host=fast.com&headerType=http&security=none#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
