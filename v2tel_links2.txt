@@ -2580,3 +2580,5 @@ vless://946f7a86-7c8b-4d77-ca35-7ff1718d2578@142.132.168.13:11770?security=&type
 vless://6803d696-9541-4bab-8c90-e7f634513ec4@188.245.118.6:12345?security=&type=tcp&headerType=http&host=&encryption=none#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
 vless://4a60a8e0-b51d-41ae-8500-1b0b6724c6e6@185.247.184.147:2060?security=reality&sni=dash.cloudflare.com&alpn=h2#👉🆔 @v2ray_configs_pool📡🇮🇹Italy
 vless://c31d6b4e-6105-4197-c94d-c45bce6c23a2@v12.net2eset.com:52418?path=%2F&security=none&encryption=none&type=ws#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWVE4SndFbGRZbjRLVDJnZlo2ZU5s@89.23.103.21:51584#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.255.61.110:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
