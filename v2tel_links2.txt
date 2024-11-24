@@ -3286,3 +3286,5 @@ trojan://telegram-id-directvpn@16.170.129.178:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-directvpn@3.147.17.142:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 trojan://telegram-id-directvpn@35.182.140.174:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 trojan://telegram-id-directvpn@63.177.11.3:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@91.219.237.102:990#👉🆔 @v2ray_configs_pool📡🇭🇺Hungary
+trojan://b9e82117-ed3a-4098-8153-100ca12aa523@104.17.228.60:443?security=tls&type=grpc&sni=hdfy5persiaserverc1.afsharidempire.uk#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
