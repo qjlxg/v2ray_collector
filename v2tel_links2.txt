@@ -3048,3 +3048,6 @@ vless://16282c60-1fbf-4a28-b6e3-ae76a7a331da@172.66.47.51:443?path=%2FTelegram%3
 vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@104.16.60.8:443?path=%2Fcurrent_time&security=tls&alpn=http%2F1.1&encryption=none&host=ahmedquran19.xyz&fp=chrome&type=ws&sni=ahmedquran19.xyz#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://022404e1-6083-48e1-beee-9048dda539bc@151.101.2.228:443?path=%2F%3Fed%3D1024&security=tls&encryption=none&host=dash.web.iranvpsmanager.ir&fp=chrome&type=ws&sni=bwdraper.faculty.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.166:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://telegram-id-privatevpns@35.176.69.2:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S108)🇬🇧t.me/PrivateVPNs
+trojan://telegram-id-privatevpns@35.176.69.2:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@23.157.88.61:2376#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
