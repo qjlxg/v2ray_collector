@@ -3727,3 +3727,4 @@ vless://64250a5e-dfbe-45aa-e3d8-2ada5eb11f31@3.14.196.182:80?security=none&encry
 trojan://telegram-id-directvpn@3.78.59.177:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 vless://TELEGRAM-NUFiLTER@NUFiLTER.fastly80-3.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER-telegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=api.nhl11.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://64250a5e-dfbe-45aa-e3d8-2ada5eb11f31@3.140.215.38:80?security=none&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@23.150.152.112:8009#👉🆔 @v2ray_configs_pool📡🇺🇸United States
