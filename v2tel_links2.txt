@@ -3491,3 +3491,5 @@ vless://6803d696-9541-4bab-8c90-e7f634513ec4@188.245.186.245:5443?mode=gun&secur
 trojan://telegram-id-directvpn@13.41.48.119:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-privatevpns@18.196.42.190:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.141.212:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇫🇷
+vless://dd638770-a9e0-11ef-b6a4-1239d0255272@npmjs.com:80?path=%2Fvlws&security=none&encryption=none&host=sg3.socifiles.com&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://6803d696-9541-4bab-8c90-e7f634513ec4@188.245.118.6:5843?mode=gun&security=reality&encryption=none&authority=&pbk=Vk19B0UVrPCk4vFDYHiB_ML1j3KhY87e6dqCXMBQlR8&fp=chrome&type=grpc&serviceName=mgrpcm&sni=refersion.com&sid=58bcbc38eae97b5d#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
