@@ -3450,3 +3450,6 @@ trojan://telegram-id-directvpn@15.237.235.15:22222?security=tls&alpn=http/1.1&he
 vless://TELEGRAM-NUFiLTER@151.101.194.133:443?path=TELEGRAM-NUFiLTER&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=api.nhl3.ir&fp=chrome&type=ws&sni=mio.splashthat.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 trojan://telegram-id-privatevpns@18.185.70.228:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S103)🇩🇪t.me/PrivateVPNs
 vless://ba56daa7-f135-4634-9805-891de5fe529b@24.144.76.38:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ariogames.ir&fp=chrome&security=reality&pbk=6agxUXxywMuy9N-qLCKxJVvZ-qrBGkCz-LS_TJY7EiA&sid=2f641fff#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+vless://Tel--V2RAXX@www.speedtest.net:8443?path=%2FTelegram%2CV2RAXX%3Fed%3D2480&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=join-bede-V2RAXX-www-speedtest-net.amalfatm.ir&fp=chrome&type=ws&sni=join-bede-V2RAXX-www-speedtest-net.amalfatm.ir#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://5c3308d9-a3e2-451d-d30d-1a63a3be68b6@94.130.99.166:19254?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://SVNTEAM@VpnWedBaZ.fastly80-2.hosting-ip.com:80?path=%2FSvnTeam-SvnTeam-SvnTeam%3Fed%3D8880&security=none&encryption=none&host=SvnTeam.Svn10.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
