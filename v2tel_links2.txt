@@ -3928,3 +3928,9 @@ vmess://eyJ2IjogIjIiLCAiYWRkIjogInMyLmRiLWxpbmswMi50b3AiLCAicG9ydCI6ICIyMDg2Iiwg
 trojan://telegram-id-directvpn@13.53.179.62:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MHk2ZGR3UXJrU0hBNjJ0dHNJWExa@194.87.45.189:40076#👉🆔 @v2ray_configs_pool📡🇪🇸Spain
 vless://213d6337-7e90-43cb-b515-e392c946b371@172.67.214.21:443?security=tls&sni=WWW.felafel.org.&type=grpc&serviceName=%40ConfigTell%2C%40ConfigTell%2C%40ConfigTell&fp=chrome&alpn=h3,h2,http/1.1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://499debea-3093-45dc-e4bb-25e64d2000c1@zula.ir:2096?type=splithttp&path=%2Ftelegram-IRov2rayN%2Ctelegram-iroazadi%2CIRov2rayN-iroazadi%2Ctelegram-irov2rayN%2Ctelegram-irov2rayN%2Ctelegram-IRov2rayN%2Ctelegram-IRov2rayN%2Ctelegram-IRov2rayN%2Ctelegram-IRov2rayN%2Ctelegram-IRov2rayN%2Ctelegram-IRov2rayN%3Fed%3D2096&host=hi.soft98d.shop&mode=auto&security=tls&fp=chrome&alpn=h2%2Chttp%2F1.1%2Ch3&allowInsecure=1&sni=hi.soft98d.shop#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+trojan://telegram-id-directvpn@52.47.90.56:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+trojan://telegram-id-directvpn@52.47.90.56:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.50.250:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
+trojan://telegram-id-directvpn@3.78.59.177:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://ef6b35dc-3100-4b39-9fe9-33de19e30e35@79.127.70.113:443?security=none&encryption=none&host=sourceforge.net+%40d&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
