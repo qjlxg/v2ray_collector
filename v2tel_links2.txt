@@ -4284,3 +4284,10 @@ ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.20.176.237:22222?path=/telegram-cha
 ss://0948673a-e607-4629-a07e-c70e1122fb73@190.93.245.137:443?security=tls&sni=DEc80.TehrANsiMAn.co.UK.&type=ws&host=DEc80.TehrANsiMAn.co.UK.&path=%2F%3Fed%3D2560&fp=chrome&alpn=h2%2Chttp%2F1.1#👉🆔 @v2ray_configs_pool📡🇨🇷Costa Rica
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.60.100.159:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
 vless://ccbaaba-abac-caab-bcad-abccbaacabbc@127.0.0.1:1080?security=tls&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+vless://v2rayvpn_official@zula.ir:8443?mode=gun&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&type=grpc&serviceName=bo2bo2.bia2bax.shop&sni=bo2bo2.bia2bax.shop#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@3.28.227.115:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@190.120.229.28:989#👉🆔 @v2ray_configs_pool📡🇵🇪Peru
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@18.132.76.158:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://v2rayvpn_official@baby.bia2bax.shop:443?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@16.24.57.198:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
+vless://DIGIV2RAy@www.speedtest.net:2052?type=ws&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.harmale.ir.&path=/tm-Digiv2-__teldIGIv2__-DIGiv&security=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
