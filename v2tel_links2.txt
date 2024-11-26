@@ -4021,3 +4021,8 @@ trojan://telegram-id-privatevpns@13.43.55.166:22222?security=tls&alpn=http/1.1&h
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@3.29.191.185:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
 trojan://telegram-id-directvpn@52.19.32.104:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
 trojan://sharevpn@67.220.72.41:443?security=tls&sni=tlsh2ss.mynode.work.gd&type=http&host=babybaby.canyou.see&path=/trojan_user#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://84c99d36-5f84-4f45-97b8-549f4d6b83d2@live.wkrq.com:443?path=%2F%3Fed%3D1024&security=tls&alpn=h2&encryption=none&host=vpngaming.ir&fp=chrome&type=ws&sni=live.wkrq.com#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://0948673a-e607-4629-a07e-c70e1122fb73@ns.tehransiman.co.uk:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=DEc80.TehrANsiMAn.co.UK.&fp=chrome&type=ws&sni=DEc80.TehrANsiMAn.co.UK.#👉🆔 @v2ray_configs_pool📡🇨🇷Costa Rica
+vless://84c99d36-5f84-4f45-97b8-549f4d6b83d2@151.101.128.155:80?path=%2F%3Fed%3D1024&security=none&encryption=none&host=vpngaming.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2T0FHTEQrRE9BNlVjRnA1VWRmMHIvVXp5andIVit5aGVOa29GRGs2dUw4PQ%3D%3D@213.108.22.109:38753#👉🆔 @v2ray_configs_pool📡🇦🇲Armenia
+vless://0948673a-e607-4629-a07e-c70e1122fb73@ftp.tehransiman.co.uk:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=Ruc80.TehrANsiMAn.co.UK.&fp=chrome&type=ws&sni=Ruc80.TehrANsiMAn.co.UK.#👉🆔 @v2ray_configs_pool📡🇨🇷Costa Rica
