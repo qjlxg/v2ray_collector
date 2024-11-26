@@ -4238,3 +4238,12 @@ trojan://telegram-id-directvpn@34.252.85.196:22222?security=tls&alpn=http/1.1&he
 trojan://telegram-id-directvpn@3.147.1.9:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 trojan://telegram-id-directvpn@52.19.32.104:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
 trojan://telegram-id-privatevpns@3.74.251.200:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://5a88f7f4-3378-40dc-890b-6e3ef13b9577@104.21.31.174:443/?type=ws&encryption=none&flow=&host=63217039726966612258331648507682.v2line.net&path=%2FV2LINE-TELEGRAM-CHANNEL-VLESS-WS-TLS&security=tls&sni=63217039726966612258331648507682.v2line.net&alpn=http%2F1.1&fp=randomized#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@185.176.24.106:443?security=tls&sni=cfed.tgzdyz2.top&allowInsecure=1&fp=chrome&type=ws&path=tg@zdyz2&host=cfed.tgzdyz2.top&encryption=none#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+vless://0cd276a5-4501-413a-acf8-b51c54894f02@179.61.219.170:22934?security=&type=tcp&encryption=none#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+vless://de44b044-8f90-4e18-b742-16591667ff96@8.217.36.98:14934?security=tls&sni=edgetunnel-free.pages.dev&fp=randomized&type=ws&path=/?ed%3D2048&host=edgetunnel-free.pages.dev&encryption=none#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.156.180.50:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://6ff213b8-ccc7-4b5a-b4aa-37f7b792a1f1@89.187.169.72:8443?security=tls&sni=vkvd127.mycdn.me&alpn=h2&allowInsecure=1&fp=chrome&type=tcp&encryption=none#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://775213ac-3976-439a-8977-3277c0e4735d@94.247.142.241:443?security=tls&sni=fq521.6789.cloudns.be&type=ws&path=twitterfreecodessecurity%3Dtls&host=fq521.6789.cloudns.be&encryption=none#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@162.159.152.170:443/?type=ws&encryption=none&flow=&host=lu.ylks.us.kg&path=%2FProxyIP%3DProxy#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://e8899a8e-729a-43bc-aebf-95e12c6c6db6@183.98.53.177:10911?security=tls&sni=global2.ccdd.site&type=ws&path=/?ed%3D2560&host=global2.ccdd.site&encryption=none#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
