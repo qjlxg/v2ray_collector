@@ -4291,3 +4291,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@18.132.76.158:443#👉
 vless://v2rayvpn_official@baby.bia2bax.shop:443?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🤷‍♀️🤷‍♂️
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCb2cwRUxtTU05RFN4RGRR@16.24.57.198:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
 vless://DIGIV2RAy@www.speedtest.net:2052?type=ws&host=www.speedtest.net.ftp.debian.org.www.digikala.com.cloudflare.com.harmale.ir.&path=/tm-Digiv2-__teldIGIv2__-DIGiv&security=none#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://1d03edb7-da2c-42da-b29f-ca68cde4b255@151.101.194.133:443?encryption=none&security=tls&sni=live.wkrq.com&fp=chrome&type=ws&host=UNLIMITEDDEV.zr.ir&path=%2F#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://217b48d6-5dac-4662-9a8c-aa76e92a7cfe@151.101.2.216:80?encryption=none&security=none&type=ws&host=befreewithus.com&path=ws%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.77.53.200:8119#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
+vmess://eyJhZGQiOiAiMzguOTkuODIuMTI4IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogIjIyMzI0IiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4VW5pdGVkIFN0YXRlcyJ9
