@@ -4324,3 +4324,4 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.42.129.255:22222?security=tls&sn
 trojan://telegram-id-privatevpns@63.32.217.185:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
 vless://b6f88384-af90-425e-ac99-a3bf8bfddf55@www.speedtest.net:2082?path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D1024&security=none&encryption=none&host=www.speedtest.net.zula.ir.Shad.ir.sHaparak.ir.torob.com.namaSha.com.namnak.com.filiMo.com.Rokna.net.teleweBion.com.iraNikala.toP.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 ss://YWVzLTI1Ni1nY206YW1hem9uc2tyMDU%3D@57.180.42.246:443#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
+trojan://telegram-id-directvpn@35.182.115.41:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
