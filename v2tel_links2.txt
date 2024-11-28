@@ -1208,3 +1208,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.178:
 vless://89b90001-4206-4871-a99d-1744d48f215b@103.17.99.54:19280?security=reality&encryption=none&pbk=F5_aTQFA2QRCig3L-qT0Qth76JdewSHK5MgEt_p8Dlo&headerType=&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=cdn-dynmedia-1.microsoft.com&sid=a8bd783f#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
 vless://414df689-dc19-418b-849c-f0f15967d71e@181.215.205.104:443?security=reality&encryption=none&pbk=ljzfoaXVBSNu3tw58-B0WNViso1aA9JSCX9GUcMDu0k&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=adobe.com&sid=4048A3da#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M%3D@38.110.1.46:5000#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@69.50.92.72:6679#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vmess://eyJhZGQiOiAiMzguOTkuODIuMjUzIiwgImFpZCI6IDAsICJob3N0IjogImdvb2dsZS5jb20iLCAiaWQiOiAiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9saW5rdndzIiwgInBvcnQiOiA0NDMsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiIsICJwcyI6ICJcdWQ4M2RcdWRjNDlcdWQ4M2NcdWRkOTQgQHYycmF5X2NvbmZpZ3NfcG9vbFx1ZDgzZFx1ZGNlMVx1ZDgzY1x1ZGRmYVx1ZDgzY1x1ZGRmOFVuaXRlZCBTdGF0ZXMifQ==
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@23.157.40.95:7306#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://a2d9ede5-8f7c-4723-acfd-087717ae06c9@151.101.0.155:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=api.nhl117.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@107.148.95.104:8388#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@69.50.92.72:8882#👉🆔 @v2ray_configs_pool📡🇺🇸United States
