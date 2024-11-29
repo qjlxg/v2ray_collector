@@ -1599,3 +1599,6 @@ vless://b6067899-8c64-4e83-8ec9-b0abeef1596f@45.91.193.247:8495?security=reality
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.166:8080#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://Y2hhY2hhMjAtcG9seTEzMDU6Qm9nMEVMbU1NOURTeERkUQ%3D%3D@series-a2-me.samanehha.co:443#👉🆔 @v2ray_configs_pool📡🇧🇭Bahrain
 vless://89b3cbba-e6ac-485a-9481-976a0415eab9@151.101.65.122:443?path=%2FGGPPfZ3NKyOoKNiK%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=metrix.ir&fp=randomized&type=ws&sni=metrix.ir#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://8c3396a6-1370-45e4-a81f-03ba4e153308@yyyyyyyyymahdi1.v2ryng01.ru:2020?type=grpc&serviceName=&authority=&security=none#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://TELEGRAM-NUFiLTER@NUFiLTER.fastly80-2.hosting-ip.com:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&encryption=none&host=api.nhl50.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://16b3cbba-e6ac-495a-9481-976a0415eab9@172.67.217.183:443?encryption=none&security=tls&sni=ESEtSECURItYlIcENse.shPnmm.WoRkeRS.Dev&alpn=h2%2Chttp%2F1.1&fp=randomized&type=ws&host=eSEtSeCURITYlICEnsE.sHpnmM.WOrKeRS.DEv&path=%2FrAQuyPffj94byXJx%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
