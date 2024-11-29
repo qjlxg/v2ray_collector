@@ -1526,3 +1526,9 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.168.249.217:22222?path=/telegram
 trojan://telegram-id-directvpn@52.212.45.23:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
 trojan://telegram-id-privatevpns@51.44.124.22:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.168.249.217:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://1a1eff5f-97b8-4a4e-910d-6415441b371a@172.66.46.224:8443?type=ws&host=trojanyu.pages.dev&path=/TELEGRAM-MARAMBASHI_MARAMBASHI/?ed%3D2560&security=tls&fp=randomized&sni=trojanyu.pages.dev&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://V2RAXX@www.speedtest.net:8443?type=ws&host=join-bede-V2RAXX-www-speedtest-net.amalfatm.ir&path=/Telegram,V2RAXX?ed%3D2480&security=tls&fp=chrome&sni=join-bede-V2RAXX-www-speedtest-net.amalfatm.ir&alpn=h3,h2,http/1.1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.240:443#👉🆔 @v2ray_configs_pool📡🇯🇵Japan
+vless://V2RAXX@funnelytics.io:8443?type=ws&host=join-bede-V2RAXX-www-speedtest-net.amalfatm.ir&path=/Telegram,V2RAXX?ed%3D2480&security=tls&fp=chrome&sni=join-bede-V2RAXX-www-speedtest-net.amalfatm.ir&alpn=h3,h2,http/1.1#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://00e85943-119a-4112-af52-d44175192452@185.146.173.58:8080?type=ws&host=lc82.lebasnoo.ir.&path=/servernett&security=none#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443?type=tcp#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
