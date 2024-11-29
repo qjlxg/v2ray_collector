@@ -1686,3 +1686,13 @@ ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206OVg2aExGUzNYL1VqTWZiZjcvZlVyTC9OVzJoUXEzNFV
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206UVg1VG1YeHBaSnpHSnFPeFB2enc5bGdNV251cXVScm5DVHB4VGVhcFlJcz06YkxyRUpNMHk3NEJiMWJOMXZKYXZqVXlKYTFXQmlhbHY4K0JueTNxWEtGZz0%3D@46.8.71.20:52964#👉🆔 @v2ray_configs_pool📡🇫🇮Finland
 vless://b6067899-8c64-4e83-8ec9-b0abeef1596f@45.91.193.247:8495/?type=http&encryption=none&flow=&sni=icloud.com&fp=chrome&security=reality&pbk=bJ7kNh4nOLMQjV737Rud9sDqdNE2vYx_hlYFD82-1Qc&sid=acbc173b1eef54b5#👉🆔 @v2ray_configs_pool📡🇱🇻Latvia
 trojan://hKDNxznOK1@46.8.71.20:36170?type=tcp&security=none#👉🆔 @v2ray_configs_pool📡🇫🇮Finland
+vless://dc20c088-6369-40d5-a708-32ff20f63f51@79.127.70.101:443?security=none&encryption=none&host=www.speedtest.net+%40FergalVpnMod&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://Parsashonam-118@185.146.173.39:8880?path=%2F&security=none&encryption=none&host=Search.DigiKala.CYoU.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
+trojan://telegram-id-privatevpns@13.37.120.132:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S116)🇨🇵t.me/PrivateVPNs
+vless://d02020d2-9d20-4524-883e-3f6567a30977@151.101.3.8:80?path=%2FTelegram-PROXY_MTM%3Fed%3D2048&security=none&encryption=none&host=tehran1.ir&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://telegram-id-privatevpns@18.134.106.33:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+trojan://telegram-id-directvpn@3.210.241.124:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMY0VEQWhSa05yandCMTZTdk41ZDdmQW1wc3d0R1RBZXhCMXFkem1lRnJnPQ%3D%3D@150.241.68.171:24064#👉🆔 @v2ray_configs_pool📡🇳🇱The Netherlands
+vless://Parsashonam-118@Zmaoz.Faculty.Ucdavis.Edu:443?path=%2F%40Parsashonam%2Fws%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=Parsashonam0.com&fp=firefox&type=ws&sni=Zmaoz.Faculty.Ucdavis.Edu.#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://telegram-id-directvpn@51.44.128.61:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇫🇷France
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.92.212:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#Telegram @VlessConfig 🇫🇷
