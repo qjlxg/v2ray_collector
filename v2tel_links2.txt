@@ -1873,3 +1873,5 @@ trojan://telegram-id-privatevpns@3.72.205.181:22222?security=tls&sni=trojan.burg
 trojan://telegram-id-privatevpns@15.236.73.124:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇫🇷France
 vless://a13df940-020c-465f-bc89-ee5279b5cd6a@207.174.31.150:443?encryption=none&security=tls&sni=cx.ylks.xyz&type=ws&path=%2Fblue#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 trojan://blue2024@173.245.58.80:443?allowInsecure=1&sni=hb.lii2010.us.kg&ws=1&wspath=%2F%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@51.24.40.44:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://0de65b37-d62f-11ee-aaa8-00505603e70d@104.16.60.8:443?path=%2Fwebsocket&security=tls&alpn=http%2F1.1&encryption=none&host=st-gb-1.brocdn.com&fp=chrome&type=ws&sni=st-gb-1.brocdn.com#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
