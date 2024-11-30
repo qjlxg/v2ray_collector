@@ -1907,3 +1907,12 @@ vmess://eyJhZGQiOiAiMzguMTQuMTA3LjIzMyIsICJhaWQiOiA2NCwgImhvc3QiOiAid3d3LjIzMTc5
 ss://c3M6Ly9jbU0wTFcxa05Ub3hOR1pHVUhKaVpYcEZNMGhFV25welRVOXlOZw==@68.183.227.45:8080#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.75.136.21:7307#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.75.136.21:8882#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://8cecedef-f088-5419-913d-c4c8b24c651d@199.232.79.51:80?host=ELiV2-0.COM&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://cfe1723e-887f-5184-a2de-3d23cc1ac09a@140.248.139.207:80?host=ELiV2-ELENA.COM&type=ws#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vmess://eyJhZGQiOiAiMTQxLjExLjI1MS4yMzEiLCAiYWlkIjogIjAiLCAiYWxwbiI6ICIiLCAiZnAiOiAiIiwgImhvc3QiOiAiIiwgImlkIjogImQ1ZTE2YjgzLTdiNWMtNDVlYS1kNzQ5LWQ2ZjZhZDIxNDQ0NyIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiNTI3MjgiLCAic2N5IjogImF1dG8iLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkYzQ5XHVkODNjXHVkZDk0IEB2MnJheV9jb25maWdzX3Bvb2xcdWQ4M2RcdWRjZTFcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjhVbml0ZWQgU3RhdGVzIn0=
+vless://8cecedef-f088-5419-913d-c4c8b24c651d@199.232.79.51:443?allowInsecure=1&security=tls&host=ELiV2-0.COM&fp=qq&type=ws&sni=ELiV2-0.COM#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.62.62.198:443?encryption=none&security=tls&sni=la.ylka.us.kg&type=ws&host=la.ylka.us.kg&path=%2Fproxyip%3Dproxyip.us.fxxk.dedyn.io#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.9.126.221:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.98.200.187:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://fca01448-d84a-436e-9aec-3be1ebdfb350@199.34.228.46:443?encryption=none&security=tls&sni=sB-1u6.Pages.DEV&type=ws&path=%2Fif1pdmbi6sinplj2%2Fmtu4ljewms4ymdmumti3%3Fed%3D2560#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://cfe1723e-887f-5184-a2de-3d23cc1ac09a@199.232.79.51:443?&allowInsecure=1&security=tls&host=ELiV2-ELENA.COM&fp=qq&type=ws&sni=ELiV2-ELENA.COM#👉🆔 @v2ray_configs_pool📡🇺🇸United States
