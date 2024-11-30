@@ -2070,3 +2070,7 @@ vless://6ac07096-da0a-454a-a8b0-c7dc54a9f163@151.101.2.228:80?path=ws%2F%3Fed%3D
 vmess://eyJhZGQiOiAiMi4xODkuNTkuNyIsICJhaWQiOiAiMCIsICJob3N0IjogIm9iZGlpLmNmZCIsICJpZCI6ICIwNTY0MWNmNS01OGQyLTRiYTQtYTlmMS1iM2NkYTBiMWZiMWQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbmt3cyIsICJwb3J0IjogIjQ0MyIsICJzbmkiOiAib2JkaWkuY2ZkIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGVlXHVkODNjXHVkZGY3SXJhbiJ9
 trojan://blue2024@104.19.251.164:443?security=tls&encryption=none&type=ws&sni=hb.lii2010.us.kg#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 trojan://blue2024@198.41.207.96:443?security=tls&encryption=none&type=ws&sni=hb.lii2010.us.kg#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://db1abaeb-620f-5118-a715-da85df646e46@104.25.189.134:2083?encryption=none&security=tls&sni=proxy.legendtom13.WOrKErs.DEv&fp=edge&type=ws&host=proxy.legendtom13.WOrKErs.DEv&path=%2Fvless-ws%2F%3Fed%3D2048#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://f5a5b033-d600-11ee-aaa8-00505603e70d@172.67.73.241:443?encryption=none&security=tls&sni=st-gb-1.brocdn.com&type=ws&host=st-gb-1.brocdn.com&path=%2Fwebsocket#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://c0acff7c-2eed-468d-8e3b-1d860988c13f@jidas.netliite.org:26985?type=tcp&security=none&host=speedtest.net&headerType=http&path=%2F#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://38e29a96-94bd-4185-9e8f-7625d11b0d23@jidas.netliite.org:26985?security=none&alpn=null&encryption=none&host=speedtest.net&headerType=http&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
