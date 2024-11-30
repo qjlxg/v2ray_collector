@@ -2467,3 +2467,5 @@ trojan://4aa9ee7a-ffee-4ca4-a588-f5fa9e979c38@3.112.5.154:20230?security=tls&sni
 trojan://telegram-id-privatevpns@63.176.188.241:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@149.202.82.172:7001#👉🆔 @v2ray_configs_pool📡🇫🇷France
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.21:5601#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://YWVzLTI1Ni1jZmI6TnZTOE40VmY4cUFHUFNDTA@80.92.204.106:9046#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
+vless://d244009a-9ceb-4f76-b52c-4da3e416ebe2@5.59.249.86:2052?security=none&type=tcp&host=www.bmw.com&headerType=http#👉🆔 @v2ray_configs_pool📡🇮🇹Italy
