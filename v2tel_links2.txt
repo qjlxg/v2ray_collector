@@ -2714,3 +2714,4 @@ vless://%34%61%34%37%66%39%64%36%2d%61%36%30%64%2d%34%65%39%34%2d%38%65%36%36%2d
 vless://cfcd45b7-46fe-42fa-8254-da6710a51db0@65.109.167.10:58880?security=reality&encryption=none&pbk=MTopCrSKPLCi1jsL4bvu84pQd6jxsWapeZporc61m1k&headerType=none&fp=random&spx=%2F&type=tcp&sni=yahoo.com&sid=8c679e503bbff055#👉🆔 @v2ray_configs_pool📡🇫🇮Finland
 vless://3a79c97d-4203-4be4-86c9-4eafa52005b2@wifi-mci.bitrait.art:8080?path=/TELEGRAM-@MainV2-ray#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 trojan://telegram-id-privatevpns@18.157.204.123:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S113)🇩🇪t.me/PrivateVPNs
+vless://%37%32%30%32%32%61%34%38%2d%38%34%64%66%2d%34%34%37%35%2d%39%32%36%63%2d%66%34%38%39%35%33%32%37%62%36%62%66@151.101.2.165:80?Telegram=@V2RayTz#👉🆔 @v2ray_configs_pool📡🇺🇸United States
