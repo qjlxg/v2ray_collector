@@ -2834,3 +2834,5 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.155.106.21:22222?path=/telegram-
 vless://d6b39cd5-f0ef-4962-af12-509138f8a9d0@185.146.173.39:443?path=%2Fmelo%3Fed%3D2096&security=tls&alpn=h3&encryption=none&host=chde.black-melo.store&fp=chrome&type=splithttp&sni=chde.black-melo.store#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
 trojan://telegram-id-directvpn@18.153.179.132:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
 trojan://telegram-id-privatevpns@54.75.235.37:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S120)🇨🇮t.me/PrivateVPNs
+vless://d6b6ea41-0950-4611-8246-224583e4ed1e@pscresearch.faculty.ucdavis.edu:443?path=ws%2F%3Fed%3D2048&security=tls&encryption=none&host=uhc6rhiubu.com&type=ws&sni=pscresearch.faculty.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.153.0.61:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
