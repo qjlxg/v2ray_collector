@@ -2505,3 +2505,4 @@ vless://SAVTEAM14@live.989bull.com:443?path=%2F%40SavTeam----%40SavTeam----%40Sa
 vless://80ed1903-c6eb-4b7a-b3bd-c41fb189e7c0@www.speedtest.net:8880?path=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet?ed=2048&security=none&encryption=none&host=ftp.debian.org.www.digikala.com.www.speedtest.net.SnappFoodSuppOrt.ShoP.&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppdWRYU2pjcVFSaUdSR1pXYlppa3Ay@81.19.141.45:52873#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
 vless://cfe1723e-887f-5184-a2de-3d23cc1ac09a@199.232.79.51:443?allowInsecure=1&security=tls&host=ELiV2-ELENA.COM&fp=qq&type=ws&sni=ELiV2-ELENA.COM#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+trojan://telegram-id-directvpn@63.177.27.23:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔 @v2ray_configs_pool📡🇩🇪Germany
