@@ -2482,3 +2482,6 @@ vless://6052bf64-0c35-44d0-9630-c5f360be00c7@157.245.57.235:443?encryption=none&
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.114.114.143:2376#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://ef27e62d-91bd-4676-b9ce-8743a73eda07@172.233.178.176:80?security=reality&sni=zula.ir&type=tcp&fp=chrome&pbk=BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU&sid=94aa1bdc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://6052bf64-0c35-44d0-9630-c5f360be00c7@157.245.57.235:443?encryption=none&type=tcp&headerType=none&security=tls&sni=aka.ms&alpn=h3%2Ch2%2Chttp%2F1.1#👉🆔 @v2ray_configs_pool📡🇸🇬Singapore
+trojan://telegram-id-directvpn@3.23.80.24:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://ef27e62d-91bd-4676-b9ce-8743a73eda07@172.233.186.231:80?security=reality&sni=zula.ir&type=tcp&fp=chrome&pbk=BVimgXtKkQ2Q6EpG8uKYTpySrNxEeIqVhdsxi5U5qRU&sid=94aa1bdc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vmess://eyJhZGQiOiAiMTU4LjUxLjEyMS4zNiIsICJ2IjogIjIiLCAicG9ydCI6IDQ0MywgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvbGlua3Z3cyIsICJ0bHMiOiAidGxzIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2Q2FuYWRhIn0=
