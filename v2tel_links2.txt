@@ -2952,3 +2952,5 @@ vless://Telegram-Mainv2ray@www.speedtest.net:8080?path=/TELEGRAM-@MainV2-ray,@Ma
 vless://16c95530-8276-5477-9e61-799542e502c7@199.232.79.57:443?allowInsecure=1&security=tls&host=ADOLF-ELENA.IR&fp=qq&type=ws&sni=ADOLF-ELENA.IR#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 trojan://auto@172.64.35.209:443?security=tls&type=ws&sni=trojanmz.pages.dev&host=trojanmz.pages.dev#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.255.125.91:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws#👉🆔 @v2ray_configs_pool📡🇮🇪Ireland
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzgzNzIyNGVkNDY1ZjAw@45.144.48.63:57456#👉🆔 @v2ray_configs_pool📡🇵🇱Poland
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.203.249.198:443#👉🆔 @v2ray_configs_pool📡🇰🇷South Korea
