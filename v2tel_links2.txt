@@ -3078,3 +3078,7 @@ vless://013c7529-d752-ea99-c1ae-baefd14512a2@ns.cloudflare.com:80?path=%2Fresult
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@35.178.15.222:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
 vless://5258e131-7960-4f71-8e8a-14c41413f1c3@185.146.173.52:443?type=splithttp&path=%2Fmelo%3Fed%3D2096&host=chat.black-melo.store&mode=auto&security=tls&fp=chrome&alpn=h3&allowInsecure=1&sni=chat.black-melo.store#👉🆔 @v2ray_configs_pool📡🇸🇪Sweden
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@169.197.142.120:7307#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@94.182.136.181:2222?type=ws&host=a.xn--i-sx6a60i.us.kg&path=/?ed%3D2560&security=tls&sni=a.xn--i-sx6a60i.us.kg#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://57b1157d-967b-414b-bb33-a7bc61f5f6e2@46.36.97.248:2058?security=none&encryption=none&headerType=none&type=tcp#👉🆔 @v2ray_configs_pool📡🇮🇷Iran
+vless://tell--ZEDMODEON@connectcarolina.sites.unc.edu:443?path=%2F%40ZEDMODEON-ZEDMODEON-ZEDMODEON%40ZEDMODEON-ZEDMODEON-TEL-ZEDMODEON-ZEDMODEON-ZEDMODEON-%40ZEDMODEON%3Fed%3D2048&security=tls&encryption=none&host=porsline.ir&type=ws&sni=connectcarolina.sites.unc.edu#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@api.namasha.co:443?type=tcp#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
