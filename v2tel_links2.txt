@@ -3561,3 +3561,5 @@ vless://2cabfe1d-620d-46fc-bfd6-2452bbeff1c2@3.139.4.234:80?mode=multi&security=
 vless://2cabfe1d-620d-46fc-bfd6-2452bbeff1c2@3.14.233.135:80?mode=multi&security=&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 vless://2cabfe1d-620d-46fc-bfd6-2452bbeff1c2@3.23.177.232:80?mode=multi&security=&encryption=none&type=grpc#👉🆔 @v2ray_configs_pool📡🇺🇸United States
 trojan://telegram-id-privatevpns@15.236.163.18:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#(S106)🇨🇵t.me/PrivateVPNs
+vless://30d89c00-fe7f-4459-a5d4-76e7f6b2007d@visa.com:80?path=%2FTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%2CTelegram%2CVPNCUSTOMIZE%3Fed%3D2560&security=none&encryption=none&host=aparat.ir.rubika.ir.google.com.xn--cr8haaa.xn--cr8haaaaa.29.a.apaspeedtest.netrat.com.eu.com.shw914.ir.xn--cr8ha.VPNCUSTOMIZE.starxs.fun%3A0&type=ws#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.70.99:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=a.xn--i-sx6a60i.us.kg&type=ws&sni=a.xn--i-sx6a60i.us.kg#👉🆔 @v2ray_configs_pool📡🇨🇦Canada
