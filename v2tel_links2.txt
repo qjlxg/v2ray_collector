@@ -3934,3 +3934,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0UVBOTVRkNjlpTGdoRnVEZDF5b0xr@89.185.84.185:
 ss://c3M6Ly9ZMmhoWTJoaE1qQXRhV1YwWmkxd2IyeDVNVE13TlRwR05UZzFSa05FUWkwMk16VXhMVFE0UkRRdE9ESkRNUzAxT1RsQ05UUTBOMEUxT0Rr@soontw.soon.guru:40020#👉🆔 @v2ray_configs_pool📡🇹🇼Taiwan
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY=@154.197.26.237:8388#👉🆔 @v2ray_configs_pool📡🇭🇰Hong Kong
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@54.200.220.184:443#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://7cc8fa86-8174-4239-b8d1-877bf39f9e07@151.101.64.155:80?path=%2Ftelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%3Fed%3D2048&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=api.nhl140.ir&fp=chrome&type=ws&sni=dart.ucdavis.edu#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+vless://283ee7c1-69ca-4af9-a812-2c87e6dc6cd1@192.0.63.44:8080?path=%2Fspeedtest.net%3Fed%3D512&security=none&encryption=none&host=h17.Xn--gmq282ekfhyys3gs.Com.&type=httpupgrade#👉🆔 @v2ray_configs_pool📡🇺🇸United States
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@freakconfig14.usecharge.ir:443#👉🆔 @v2ray_configs_pool📡🇦🇪United Arab Emirates
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@freakconfig13.usecharge.ir:443#👉🆔 @v2ray_configs_pool📡🇬🇧United Kingdom
+vmess://eyJhZGQiOiAiYnMucHV0aWhiLm9yZyIsICJhaWQiOiAiMSIsICJhbHBuIjogIiIsICJmcCI6ICIiLCAiaG9zdCI6ICJicy5wdXRpaGIub3JnIiwgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICJsaW5rdndzIiwgInBvcnQiOiAiNDQzIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICJicy5wdXRpaGIub3JnIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidiI6ICIyIiwgInBzIjogIlx1ZDgzZFx1ZGM0OVx1ZDgzY1x1ZGQ5NCBAdjJyYXlfY29uZmlnc19wb29sXHVkODNkXHVkY2UxXHVkODNlXHVkZDM3XHUyMDBkXHUyNjQwXHVmZTBmXHVkODNlXHVkZDM3XHUyMDBkXHUyNjQyXHVmZTBmIn0=
