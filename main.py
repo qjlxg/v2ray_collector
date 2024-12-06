@@ -3716,7 +3716,7 @@ def main():
     save_v2ray_links(updated_links, filename)
 
     # Determine base64 filename based on the current file
-    base64_filename = 'base64' if 'v2tel_links1.txt' in filename else 'base64_1'
+    base64_filename = 'base64' if 'links.txt' in filename else 'base64'
 
     # Encode the entire file content to base64 and save it, overwriting the previous content
     encode_file_to_base64(filename, base64_filename)
