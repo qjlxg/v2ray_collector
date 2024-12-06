@@ -81,7 +81,7 @@ def main():
     filename = sys.argv[1]
 
 
-telegram_urls = [
+    telegram_urls = [
 "https://t.me/s/v2ray_configs_pool",
 "https://t.me/s/AAK_VPN",
 "https://t.me/s/ABEDCONFIGPLUSE",
